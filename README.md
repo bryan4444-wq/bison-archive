@@ -49,3 +49,9 @@ Added 79-player searchable roster with jersey numbers, ratings, speed, and dev t
 
 ## Preseason Week 1 finance/staff/injuries update
 Added searchable contract ledger (79 screenshot-transcribed entries), injury report, coordinator profiles and salary-cap summary to the Team Ops section. All four files must be deployed together. Finance and roster player counts are preserved as separate screenshots.
+
+## Offseason and media archive update
+This revision adds three visible site sections: **Offseason** (2027 review), **Bison Beat** (expanded Daniel Mercer article reconstructed from established canon), and **30 for 30** (Colts Wrapped, The Final Conversation, and Always Compete: The New Frontier). Original roleplay scripts were not available verbatim; episode guides and article prose are labeled reconstructed. No extra dependencies. Upload all four files together.
+
+## 2026 transaction ledger correction
+The historical transaction section now contains 12 major trade entries with received/sent packages and 10 confirmed midseason free-agent signings, searchable and filterable. The 2026 ledger in continuity.md supersedes prior abbreviated notes.

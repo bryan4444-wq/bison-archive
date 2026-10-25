@@ -738,10 +738,184 @@ history2026: [
  {title:'Final record',value:'8–9',description:'The season ended one game below .500, establishing momentum ahead of the move to Oklahoma City.'}
 ],
 historicalTransactions:[
- {type:'2026 trade • confirmed',title:'Tetairoa McMillan acquired',description:'Colts received Tetairoa McMillan (89 OVR in trade screenshot). Other side of the exchange is not fully visible in the supplied screenshot; do not infer the full package.'},
- {type:'2026 trade • confirmed',title:'Tory Horton acquired from Seattle',description:'Seattle sent Tory Horton (75 OVR). Indianapolis sent TE Mo Alie-Cox, WR Eli Pancol, 2027 pick 133 (fifth round) and 2027 pick 202 (seventh round). Screenshot shows Seattle interest at 0%, so treat the screenshot as the illustrated package, not proof of AI acceptance; the owner confirms this trade is canon.'},
- {type:'2026 trade • screenshot only',title:'Jerry Jeudy proposal',description:'Trade screen depicts Cleveland sending Jerry Jeudy (79 OVR) for Uchenna Nwosu (76 OVR) and a 2028 seventh-round pick (208). No confirmation of execution in the provided context.'},
- {type:'2026 midseason signings • confirmed',title:'Midseason free-agent signings',description:'Owner confirms signing Jamal Hill (WILL 66), Donovan Edwards (HB 68), Justyn Ross (WR 74), Jermaine Burton (WR 74), Will Dissly (TE 72), Cam Robinson (LT 73), Haason Reddick (EDGE 75), Jaquelin Roy (DT 70), Channing Tindall (MLB 66), and Daijahn Anthony (FS 66), as shown in the signing screenshots.'}
+  {
+    "type": "2026 trade • confirmed",
+    "title": "Seattle Seahawks — foundational blockbuster",
+    "description": "Indianapolis received: Jadarian Price (HB); Uchenna Nwosu (EDGE); Christian Haynes (RG); Drew Lock (QB); 2027 1st #32; 2027 3rd #96; 2028 2nd #64. Indianapolis sent: Jonathan Taylor (HB); Quenton Nelson (LG); Arden Key (EDGE); Riley Leonard (QB). Confirmed; Jonathan Taylor and Quenton Nelson subsequently helped Seattle win Super Bowl LXI.",
+    "category": "trade",
+    "received": "Jadarian Price (HB); Uchenna Nwosu (EDGE); Christian Haynes (RG); Drew Lock (QB); 2027 1st #32; 2027 3rd #96; 2028 2nd #64",
+    "sent": "Jonathan Taylor (HB); Quenton Nelson (LG); Arden Key (EDGE); Riley Leonard (QB)",
+    "notes": "Confirmed; Jonathan Taylor and Quenton Nelson subsequently helped Seattle win Super Bowl LXI."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "Pittsburgh Steelers — Will Howard trade",
+    "description": "Indianapolis received: Will Howard (QB); Robert Tonyan (TE); 2027 4th #117; 2028 5th #149. Indianapolis sent: Daniel Jones (QB); Keenan Allen (WR); Quez Watkins (WR); Anthony Gould (WR). Confirmed final package, superseding earlier versions without Tonyan and the 2028 pick.",
+    "category": "trade",
+    "received": "Will Howard (QB); Robert Tonyan (TE); 2027 4th #117; 2028 5th #149",
+    "sent": "Daniel Jones (QB); Keenan Allen (WR); Quez Watkins (WR); Anthony Gould (WR)",
+    "notes": "Confirmed final package, superseding earlier versions without Tonyan and the 2028 pick."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "Atlanta Falcons — veteran defense reset",
+    "description": "Indianapolis received: Gervon Dexter Sr. (DT); Billy Bowman Jr. (DB); 2027 4th #109; 2028 2nd #45. Indianapolis sent: DeForest Buckner (DT); Charvarius Ward Sr. (CB). Confirmed.",
+    "category": "trade",
+    "received": "Gervon Dexter Sr. (DT); Billy Bowman Jr. (DB); 2027 4th #109; 2028 2nd #45",
+    "sent": "DeForest Buckner (DT); Charvarius Ward Sr. (CB)",
+    "notes": "Confirmed."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "New Orleans Saints — linebacker trade",
+    "description": "Indianapolis received: Danny Stutsman (LB). Indianapolis sent: Akeem Davis-Gaither (LB); 2027 7th #208. Confirmed.",
+    "category": "trade",
+    "received": "Danny Stutsman (LB)",
+    "sent": "Akeem Davis-Gaither (LB); 2027 7th #208",
+    "notes": "Confirmed."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "San Francisco 49ers — roster consolidation",
+    "description": "Indianapolis received: Gracen Halton (DT); 2027 2nd #59; 2027 4th #123. Indianapolis sent: Grover Stewart (DT); Josh Downs (WR); Nick Westbrook-Ikhine (WR); Mecole Hardman (WR); Ashton Dulin (WR); Laquon Treadwell (WR); 2027 3rd #96. The later screenshot includes pick #123; preserve this latest illustrated package, with the pick as pending precise confirmation.",
+    "category": "trade",
+    "received": "Gracen Halton (DT); 2027 2nd #59; 2027 4th #123",
+    "sent": "Grover Stewart (DT); Josh Downs (WR); Nick Westbrook-Ikhine (WR); Mecole Hardman (WR); Ashton Dulin (WR); Laquon Treadwell (WR); 2027 3rd #96",
+    "notes": "The later screenshot includes pick #123; preserve this latest illustrated package, with the pick as pending precise confirmation."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "Cincinnati Bengals — Andrei Iosivas",
+    "description": "Indianapolis received: Andrei Iosivas (WR); 2027 7th #202. Indianapolis sent: Jaylon Carlies (LB). Confirmed.",
+    "category": "trade",
+    "received": "Andrei Iosivas (WR); 2027 7th #202",
+    "sent": "Jaylon Carlies (LB)",
+    "notes": "Confirmed."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "Philadelphia Eagles — Landon Dickerson",
+    "description": "Indianapolis received: Landon Dickerson (LG); 2027 1st #23. Indianapolis sent: Anthony Richardson Sr. (QB); Uchenna Nwosu (EDGE). Recorded primary package. A separate screenshot showed an expanded alternate including Riq Woolen, pick #55 and pick #32; do not merge the two without confirmation.",
+    "category": "trade",
+    "received": "Landon Dickerson (LG); 2027 1st #23",
+    "sent": "Anthony Richardson Sr. (QB); Uchenna Nwosu (EDGE)",
+    "notes": "Recorded primary package. A separate screenshot showed an expanded alternate including Riq Woolen, pick #55 and pick #32; do not merge the two without confirmation."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "New York Giants — J.J. McCarthy",
+    "description": "Indianapolis received: J.J. McCarthy (QB); 2027 5th #133. Indianapolis sent: Drew Lock (QB). Confirmed.",
+    "category": "trade",
+    "received": "J.J. McCarthy (QB); 2027 5th #133",
+    "sent": "Drew Lock (QB)",
+    "notes": "Confirmed."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "New York Jets — Will Levis",
+    "description": "Indianapolis received: Will Levis (QB); 2027 1st #16. Indianapolis sent: J.J. McCarthy (QB); 2027 2nd #48. Confirmed. J.J. McCarthy moved again after arriving from the Giants.",
+    "category": "trade",
+    "received": "Will Levis (QB); 2027 1st #16",
+    "sent": "J.J. McCarthy (QB); 2027 2nd #48",
+    "notes": "Confirmed. J.J. McCarthy moved again after arriving from the Giants."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "Cleveland Browns — Jerry Jeudy",
+    "description": "Indianapolis received: Jerry Jeudy (WR). Indianapolis sent: Uchenna Nwosu (EDGE); 2028 7th #208. The trade screen shows this package; Jeudy appears on the subsequent Colts roster and in the later McMillan deal. Recorded as completed franchise history.",
+    "category": "trade",
+    "received": "Jerry Jeudy (WR)",
+    "sent": "Uchenna Nwosu (EDGE); 2028 7th #208",
+    "notes": "The trade screen shows this package; Jeudy appears on the subsequent Colts roster and in the later McMillan deal. Recorded as completed franchise history."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "Seattle Seahawks — Tory Horton",
+    "description": "Indianapolis received: Tory Horton (WR). Indianapolis sent: Mo Alie-Cox (TE); Eli Pancol (WR); 2027 5th #133; 2027 7th #202. Owner explicitly confirmed the final package; disregard the Madden trade-interest meter.",
+    "category": "trade",
+    "received": "Tory Horton (WR)",
+    "sent": "Mo Alie-Cox (TE); Eli Pancol (WR); 2027 5th #133; 2027 7th #202",
+    "notes": "Owner explicitly confirmed the final package; disregard the Madden trade-interest meter."
+  },
+  {
+    "type": "2026 trade • confirmed",
+    "title": "Tetairoa McMillan acquisition",
+    "description": "Indianapolis received: Tetairoa McMillan (WR). Indianapolis sent: Alec Pierce (WR); Jerry Jeudy (WR). Owner explicitly confirmed Tet for Pierce and Jeudy. Counterparty name not independently legible in the retained trade screenshot; no extra terms invented.",
+    "category": "trade",
+    "received": "Tetairoa McMillan (WR)",
+    "sent": "Alec Pierce (WR); Jerry Jeudy (WR)",
+    "notes": "Owner explicitly confirmed Tet for Pierce and Jeudy. Counterparty name not independently legible in the retained trade screenshot; no extra terms invented."
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Jamal Hill — WILL",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 66. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 66
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Donovan Edwards — HB",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 68. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 68
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Justyn Ross — WR",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 74. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 74
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Jermaine Burton — WR",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 74. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 74
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Will Dissly — TE",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 72. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 72
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Cam Robinson — LT",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 73. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 73
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Haason Reddick — EDGE",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 75. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 75
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Jaquelin Roy — DT",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 70. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 70
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Channing Tindall — MIKE",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 66. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 66
+  },
+  {
+    "type": "2026 midseason FA • signed",
+    "title": "Daijahn Anthony — FS",
+    "description": "Confirmed midseason free-agent signing. Screenshot OVR: 66. Owner confirms these screenshots show completed signings, not scouting-only evaluations.",
+    "category": "signing",
+    "ovr": 66
+  }
 ],
 historicalDepth:[
  {unit:'Offense',position:'QB',starter:'Will Levis • 73',depth:'Will Howard • 64; S. Shrader • 12'},

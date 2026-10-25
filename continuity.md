@@ -162,3 +162,48 @@ These are owner-supplied in-game screenshots. Preserve this snapshot as distinct
 - Finance panel displays **77 total players**, while the roster screen displays **79/75**. Do not silently reconcile these conflicting UI counts.
 - Detailed screenshot-transcribed contract ledger: **79 entries** in `data.js` under `contracts2027`, also displayed on the site. The screenshot contract 'total', 'salary', 'bonus', 'savings' and 'penalty' columns are not annual cap hits.
 - Notable displayed remaining contract totals: Sauce Gardner $119.75M (5-year length, 4 years left); Bernhard Raimann $88.77M (5, 3); Parker Washington $74.11M (4, 4); Tanor Bortolini $65.6M (5, 5); Cam Taylor-Britt $58.82M (5, 4); Yaya Diaby $32.61M (2, 2); Leonard Williams $22M (2, 2). Do not overwrite prior historical signing terms based solely on this current contract view.
+
+
+## Media archive — 2027 offseason and documentary canon
+The website now includes a reconstructed 2027 offseason review (FA A, draft A−, overall A), a long-form **reconstructed edition** of Daniel Mercer's April 2027 article **“From Relocation Experiment to Legitimate Contender: The Bison’s First Offseason Makes a Statement”**, and the documentary archive. Do not mistake newly reconstructed paragraphs for recovered verbatim roleplay dialogue.
+
+### Offseason review
+- Original major 2027 FA signings: Yaya Diaby four years/$70M, Parker Washington four years/$68M, Leonard Williams two years/$22M, Ikem Ekwonu four years/$47M. Current in-game contract totals may differ and are recorded separately in Team Ops.
+- Draft first round: Jeremiah Smith #6, Trevor Goosby #14, Ashton Hampton #19. Later: Damon Wilson II, Nyck Harbor, Rasheem Biles, Isaiah Sategna, John Mateer. Arizona and Detroit trades cost substantial capital.
+- Key concerns: Howard's ability to sustain the 8–2 turnaround across a full year, right-side OL chemistry, linebacker and interior defensive depth, cost of aggressive trades.
+- Daniel Mercer: offseason grade A−; 10–11 win projection; independent critical voice, not team PR.
+
+### Documentary archive
+- **ESPN 30 for 30: Colts Wrapped**: Completed fictional retrospective hosted by Mina Kimes. Six established chapters: Bryan's Renton childhood/Patricia; Colts purchase/relocation; roster teardown and Taylor/Nelson deal; 0–7 start and 8–2 Howard turnaround; last Indianapolis Sunday, six-month employee severance and farewell packages; Mina closing interview. Established ending: “The Indianapolis Colts are gone. The Oklahoma City Bison are coming.” Exact original full script not available in this archive; website has a reconstructed episode guide.
+- **The Final Conversation**: Completed fictional 58-minute Daniel Mercer special. Covers relocation, Taylor/Nelson, 8–2 turnaround, six-month severance, farewell gifts, Seattle/Sonics parallel, final apology. Established closing: “Thank you, Indianapolis. 1984–2026.” Exact original interview transcript not recovered.
+- **Always Compete: The New Frontier**: Ongoing/planned Mina Kimes ESPN season-long documentary following offseason, draft, practice, 2027 inaugural season, Love's Field and Patricia's Seat. No cameras in Bryan/Q's home; limited Braylee exposure. Do not invent completed episodes.
+
+
+## Definitive 2026 transaction ledger — corrective archive update
+This ledger supersedes the earlier truncated 2026 supplement and its incorrect suggestion that confirmed signings were merely evaluations. The owner established these transactions as canon. The later SF #123 and alternate Philadelphia screenshot require care as noted.
+
+- **Seattle Seahawks — foundational blockbuster** — Colts received: Jadarian Price (HB); Uchenna Nwosu (EDGE); Christian Haynes (RG); Drew Lock (QB); 2027 1st #32; 2027 3rd #96; 2028 2nd #64. Colts sent: Jonathan Taylor (HB); Quenton Nelson (LG); Arden Key (EDGE); Riley Leonard (QB). Confirmed; Jonathan Taylor and Quenton Nelson subsequently helped Seattle win Super Bowl LXI.
+
+- **Pittsburgh Steelers — Will Howard trade** — Colts received: Will Howard (QB); Robert Tonyan (TE); 2027 4th #117; 2028 5th #149. Colts sent: Daniel Jones (QB); Keenan Allen (WR); Quez Watkins (WR); Anthony Gould (WR). Confirmed final package, superseding earlier versions without Tonyan and the 2028 pick.
+
+- **Atlanta Falcons — veteran defense reset** — Colts received: Gervon Dexter Sr. (DT); Billy Bowman Jr. (DB); 2027 4th #109; 2028 2nd #45. Colts sent: DeForest Buckner (DT); Charvarius Ward Sr. (CB). Confirmed.
+
+- **New Orleans Saints — linebacker trade** — Colts received: Danny Stutsman (LB). Colts sent: Akeem Davis-Gaither (LB); 2027 7th #208. Confirmed.
+
+- **San Francisco 49ers — roster consolidation** — Colts received: Gracen Halton (DT); 2027 2nd #59; 2027 4th #123. Colts sent: Grover Stewart (DT); Josh Downs (WR); Nick Westbrook-Ikhine (WR); Mecole Hardman (WR); Ashton Dulin (WR); Laquon Treadwell (WR); 2027 3rd #96. The later screenshot includes pick #123; preserve this latest illustrated package, with the pick as pending precise confirmation.
+
+- **Cincinnati Bengals — Andrei Iosivas** — Colts received: Andrei Iosivas (WR); 2027 7th #202. Colts sent: Jaylon Carlies (LB). Confirmed.
+
+- **Philadelphia Eagles — Landon Dickerson** — Colts received: Landon Dickerson (LG); 2027 1st #23. Colts sent: Anthony Richardson Sr. (QB); Uchenna Nwosu (EDGE). Recorded primary package. A separate screenshot showed an expanded alternate including Riq Woolen, pick #55 and pick #32; do not merge the two without confirmation.
+
+- **New York Giants — J.J. McCarthy** — Colts received: J.J. McCarthy (QB); 2027 5th #133. Colts sent: Drew Lock (QB). Confirmed.
+
+- **New York Jets — Will Levis** — Colts received: Will Levis (QB); 2027 1st #16. Colts sent: J.J. McCarthy (QB); 2027 2nd #48. Confirmed. J.J. McCarthy moved again after arriving from the Giants.
+
+- **Cleveland Browns — Jerry Jeudy** — Colts received: Jerry Jeudy (WR). Colts sent: Uchenna Nwosu (EDGE); 2028 7th #208. The trade screen shows this package; Jeudy appears on the subsequent Colts roster and in the later McMillan deal. Recorded as completed franchise history.
+
+- **Seattle Seahawks — Tory Horton** — Colts received: Tory Horton (WR). Colts sent: Mo Alie-Cox (TE); Eli Pancol (WR); 2027 5th #133; 2027 7th #202. Owner explicitly confirmed the final package; disregard the Madden trade-interest meter.
+
+- **Tetairoa McMillan acquisition** — Colts received: Tetairoa McMillan (WR). Colts sent: Alec Pierce (WR); Jerry Jeudy (WR). Owner explicitly confirmed Tet for Pierce and Jeudy. Counterparty name not independently legible in the retained trade screenshot; no extra terms invented.
+
+**Confirmed midseason free-agent signings (screenshot OVR at time of signing):** Jamal Hill (WILL 66), Donovan Edwards (HB 68), Justyn Ross (WR 74), Jermaine Burton (WR 74), Will Dissly (TE 72), Cam Robinson (LT 73), Haason Reddick (EDGE 75), Jaquelin Roy (DT 70), Channing Tindall (MIKE 66), Daijahn Anthony (FS 66). These are SIGNED players, not unsigned targets.
