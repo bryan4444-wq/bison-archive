@@ -3,3 +3,17 @@
 
 /* Archive 2.1 full-length reading */
 .full-narrative h3{margin-top:2.6rem;margin-bottom:.8rem;font-size:1.35rem;color:#f4f7fc}.full-narrative p{line-height:1.85;margin:0 0 1.25rem}.reading .notice{line-height:1.65}
+
+/* 2.2 editorial and accessibility polish */
+:focus-visible{outline:3px solid #e4b56a;outline-offset:3px}
+.section,.reading h3{scroll-margin-top:95px}
+.reading-toc{border:1px solid var(--line);background:var(--panel);border-radius:12px;padding:20px 24px;margin:28px 0 36px;font-family:system-ui,sans-serif}
+.reading-toc strong{font-size:15px;letter-spacing:.04em}
+.reading-toc ol{columns:2;column-gap:24px;margin:12px 0 0;padding-left:22px}
+.reading-toc li{break-inside:avoid;padding:4px 0;font-size:13px;color:#cbd7e6}
+.reading-toc a:hover{text-decoration:underline}
+.readtime{font-size:12px;color:var(--gold);font-weight:700;margin:24px 0 0}
+.next-story{margin-top:58px;padding:26px;border-top:1px solid var(--line);background:linear-gradient(90deg,#15263a,transparent)}
+.next-story a{display:block;font-size:23px;font-weight:800;margin-top:8px}
+@media(max-width:750px){.reading-toc ol{columns:1}.nav{gap:12px}.links a{padding:3px 0}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.card{transition:none}}

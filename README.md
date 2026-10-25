@@ -62,3 +62,11 @@ The website loads a versioned data.js URL to prevent GitHub Pages/browser caches
 
 ## Archive 2.1 — Full written stories
 Expanded `colts-wrapped.html`, `final-conversation.html`, and `always-compete.html` into substantial chapter-by-chapter fictional documentary narratives. Expanded `mercer-offseason-2027.html` with deeper analysis. These are reconstructed creative prose, not recovered verbatim scripts. No dialogue is invented for owner Bryan, and no future game outcomes are fabricated. Deploy all files together to GitHub Pages.
+
+## Archive 2.2 — navigation and polish
+- Homepage documentary links now correctly advertise complete written treatments.
+- Documentary reading pages include chapter navigation, estimated reading time and a next-story link.
+- Added `database.html` with focused views for roster, depth, operations, 2026 and 2027 transactions, people, offseason and continuity. This reuses the complete original archive rendering and data; `archive.html` remains available as an all-in-one fallback.
+- The database checks for 22 historical 2026 transactions and reports a stale/missing data.js file.
+- All 12 files must be uploaded together. On GitHub Pages, hard-refresh after deployment.
+- This does not claim browser-based QA of live deployment; source and syntax were validated locally.
