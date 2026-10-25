@@ -37,3 +37,15 @@ Upload this directory to a static hosting provider such as Cloudflare Pages, Git
 
 ## Canon disclaimer
 This is a fictional Madden roleplay archive, not an official NFL, ESPN, or team website. Information is based on the user-provided fictional franchise history; unknown details should not be invented.
+
+## Archive update
+The 2026 History section preserves screenshot-based historical depth charts and trade/free-agent evidence. The 2027 roster and draft remain separate. Deploy all four files together to GitHub Pages.
+
+## Character Bible update
+The new searchable Character Bible section in `index.html` is populated by `characterBible` in `data.js`. The full canon, relationships, dialogue guidelines and unresolved details are mirrored in `continuity.md`. The seven original cast cards are retained. Replace all four repository files together.
+
+## 2027 preseason Week 1 update
+Added 79-player searchable roster with jersey numbers, ratings, speed, and dev traits; interactive Offense / Defense / Special Teams / Specialist depth chart; and a continuity snapshot. Replace all four files together.
+
+## Preseason Week 1 finance/staff/injuries update
+Added searchable contract ledger (79 screenshot-transcribed entries), injury report, coordinator profiles and salary-cap summary to the Team Ops section. All four files must be deployed together. Finance and roster player counts are preserved as separate screenshots.

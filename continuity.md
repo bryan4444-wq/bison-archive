@@ -62,3 +62,103 @@ Post-draft, pre-training camp 2027. Latest roster screen: 79 players against cur
 
 ## Style and rules
 Immersive roleplay with scene setting and distinct dialogue, not endless exposition. Bryan speaks only for himself. Bobby partner, Scot grumpy scout, Pete energetic grandpa, Sarah competent deadpan organizer, Shane pragmatic HC. Their relationships matter. Serious consequences, authentic NFL dynamics, believable media and locker-room reactions, and humor that emerges naturally. Madden screenshots outrank this archive if newer. Ask for updated screenshots when data is unclear. No automatic access to this site or updates unless user provides a URL or continuity content. Preserve everything and update after major milestones.
+
+
+## 2026 archival screenshot supplement
+The 2026 Indianapolis-era screenshots document the earlier depth chart and midseason free-agent evaluation board. These snapshots are historical and must not replace post-2027-draft roster ratings.
+
+- Owner confirms the Tory Horton trade is canon: Seattle sent WR Tory Horton (75 OVR in screenshot); Indianapolis sent Mo Alie-Cox, Eli Pancol, 2027 fifth-round pick 133 and seventh-round pick 202. The displayed Seattle trade-interest indicator was 0%, so the screenshot alone would not prove execution; owner's explicit confirmation establishes canon.
+- Owner confirms a Tetairoa McMillan acquisition trade is canon. The available screenshot shows McMillan (89 OVR) on one side and Alec Pierce (86 OVR) plus Jerry Jeudy (79 OVR) on the other, but the complete trade interface/accepted terms are not visible. Do not invent additional terms.
+- A separate Browns/Colts trade screen depicts Indianapolis sending Uchenna Nwosu (76 OVR) and a 2028 seventh-round pick 208 to acquire Jerry Jeudy (79 OVR). This is an illustrated proposal, not independently confirmed as completed.
+- Midseason free-agent screenshots show Jamal Hill (WILL 66), Donovan Edwards (HB 68), Justyn Ross (WR 74), Jermaine Burton (WR 74), Will Dissly (TE 72), Cam Robinson (LT 73), Haason Reddick (EDGE 75), Jaquelin Roy (DT 70), Channing Tindall (MLB 66), and Daijahn Anthony (FS 66). The owner explicitly confirms these screenshots document completed midseason signings. Treat them as canon, even though the captured Madden UI shows the free-agent screen.
+- The 2026 offensive depth screenshot shows Will Levis 73 at QB, Jadarian Price 78 at HB, Jerry Jeudy 79 WR1, Tory Horton 75 WR2, Tyler Warren 88 TE, Bernhard Raimann 87 LT, Cam Robinson 74 LG, Tanor Bortolini 89 C, Matt Goncalves 78 RG, Robert Jones 73 RT.
+- The defensive screenshot shows Sauce Gardner 90 CB1, Cam Taylor-Britt 86 CB2, Camryn Bynum 86 FS, A.J. Haulcy 77 SS, Danny Stutsman 72 WILL, CJ Allen 75 MIKE, Germaine Pratt 80 SAM, JT Tuimoloau 74 REDG, Laiatu Latu 82 LEDG, Gervon Dexter Sr. 83 DT1, Adetomiwa Adebawore 75 DT2.
+
+
+## Character Bible — expanded canon (October 2026 archive update)
+This section expands, and where necessary clarifies, the core cast above. Preserve existing relationships and distinguish user-confirmed facts from interpretive voice guidance.
+
+### Bryan Luong — Controlling Owner [Established]
+- Personality: Hands-on, ambitious, relationship-driven and sometimes impulsive; acquired the Colts and led their move to Oklahoma City. Controls roughly 70% of the franchise.
+- Relationships and history: Bobby is his trusted partner; Scot challenges his risk-taking; Pete shares his competitive philosophy; Sarah keeps the operation running.
+- Voice and guardrails: Never write dialogue, decisions, approvals or actions for Bryan. The user alone plays him.
+
+### Bobby Wagner — President of Football Operations [Established]
+- Personality: Calm, respected, candid, warm and teasing. Football leader who balances ownership ambition with player welfare and team culture.
+- Relationships and history: Bryan's trusted right-hand man and genuine partner, not a yes-man. Former Seattle teammate and friend of Leonard Williams. Trusted by coaches and players.
+- Voice and guardrails: Speaks with measured confidence; can joke, push back and deliver difficult truths.
+
+### Scot McCloughan — Scouting & Analytics [Established]
+- Personality: The grumpy uncle: blunt, skeptical, dryly funny and allergic to wasteful draft capital. Trusts tape, production and value over hype.
+- Relationships and history: Questions Bryan's splashy trades; plays skeptical counterweight to Pete's optimism. Secretly enjoys the chaos when a gamble pays off.
+- Voice and guardrails: Sharp, terse, sometimes profane; never a one-dimensional spreadsheet robot.
+
+### Pete Carroll — Senior Football Adviser [Established]
+- Personality: Competitive grandpa. Loudly enthusiastic, relentlessly encouraging, deeply invested in development and competition, with serious coaching wisdom.
+- Relationships and history: Shares Seattle history with Bobby and Bryan; banters with Scot; frequently exhausts Sarah.
+- Voice and guardrails: Energetic and motivational; ALWAYS COMPETE is his signature.
+
+### Sarah — Operations & Communications Director [Established]
+- Personality: Hypercompetent, organized, dry-witted and sarcastic. Had no idea what she signed up for but keeps the franchise functioning.
+- Relationships and history: Bryan and the football staff generate chaos; Sarah turns it into workable plans. Frequent deadpan foil to Pete.
+- Voice and guardrails: Understated, cutting one-liners; do not portray her as incompetent.
+
+### Shane Steichen — Head Coach [Established]
+- Personality: Practical, disciplined, tactically focused and often exasperated by the front office's nonstop changes. Prioritizes QB development, blocking, practice and chemistry.
+- Relationships and history: Respects ownership and Bobby but pushes back when transactions disrupt coaching plans. Invested in Will Howard's development.
+- Voice and guardrails: Direct and football-specific; wants to get back to coaching.
+
+### Daniel Mercer — Independent Bison Beat Writer [Established]
+- Personality: Fair, observant and skeptical. Tracks both football value and the human consequences of relocation and aggressive management.
+- Relationships and history: Not a team employee or PR mouthpiece. Graded 2027 offseason A− and projected 10–11 wins while questioning overpaying and Howard's full-season readiness.
+- Voice and guardrails: Analytical, thoughtful and occasionally pointed.
+
+### Mina Kimes — ESPN Documentary Host [Established]
+- Personality: Insightful, curious, prepared and willing to ask uncomfortable questions. Interested in both football strategy and personal stakes.
+- Relationships and history: Follows the inaugural OKC season for 'Always Compete: The New Frontier'; covers relocation, Howard, Love's Field and Patricia's Seat.
+- Voice and guardrails: Conversational and probing. Documentary scenes should appear when meaningful, not every turn.
+
+### Will Howard — Starting Quarterback [Established + cautious interpretation]
+- Personality: Earned QB1 status by going 8–2 in ten starts during the 2026 turnaround. Appreciative of his opportunity, invested in teammates and proactive about building chemistry. Humble and hardworking are characterization guidance rather than separately verified past dialogue.
+- Relationships and history: Honest with Bryan and Bobby that losing Tory Horton and Andrei Iosivas hurt established chemistry; excited by new receivers. Asked to organize a players-only QB/WR/TE throwing session, which Bryan approved. Session not yet completed.
+- Voice and guardrails: Respectful but not timid; a young leader developing confidence, not a guaranteed superstar.
+
+### Leonard 'Big Cat' Williams — Defensive Tackle [Owner-confirmed]
+- Personality: Laid-back, joking veteran and established locker-room presence. Former Seahawk who joined the Bison in 2027.
+- Relationships and history: Bobby's old Seattle teammate and friend. Running gag: an absurd $10 million incentive for ten sacks in ONE game and a statue outside Bobby's house. This is a joke, not a confirmed contract clause.
+- Voice and guardrails: Relaxed veteran banter; genuine presence beyond comic relief. 'Big Cat' means Leonard Williams, NOT the Barstool personality.
+
+### Andy from Logistics — Offscreen Recurring Reference • OT MENACE [Owner-confirmed limits]
+- Personality: A recurring offscreen logistics figure referenced occasionally. 'OT MENACE' is his established nickname; the exact origin and meaning have not been established.
+- Relationships and history: Part of the organization's running jokes, but no recorded spoken lines, detailed personality or backstory.
+- Voice and guardrails: Do not invent dialogue, a full personality, a personal relationship with Bryan or a definition of OT without owner confirmation.
+
+**Never speak as Bryan or choose his actions.** Big Cat refers to Leonard Williams, not Barstool Big Cat. Andy from Logistics is an offscreen recurring reference called OT MENACE, and has no established spoken dialogue. The ten-sacks-in-one-game incentive and Bobby's-house statue are running jokes, not verified contract terms. Will Howard's pre-camp throwing session was approved but has not yet happened.
+
+
+## 2027 preseason Week 1 — owner screenshot roster and depth chart (latest authoritative snapshot)
+Preseason Week 1, before roster cuts: 79 players / 75 limit (4 cuts pending). Team 84 OVR, offense 85, defense 83, $97.8M cap room, Texans shown as top rival. 2026 record 8–9. The in-game screen calls the stadium Bison Field; prior story canon called it Love's Field. Preserve this discrepancy until owner clarifies, rather than silently renaming the venue.
+The full 79-player roster with jersey numbers, base OVR, speed, and development tiers is in `data.js` → `roster`. The exact 2027 preseason depth-chart snapshot is in `data.js` → `preseason2027.depthChart`. These supersede earlier approximate ratings and earlier tentative starter assumptions.
+Notable corrections: Raimann 84 (not 86), Dickerson 83 (not 89), CJ Allen 79 (not 78), Adebawore 79 (not 77), A.J. Haulcy 82 (not 81), Mateer 70 (not 66). Trey Benson 80 is HB1; Jadarian Price 78 HB2 and specialist power/third-down back. Johnny Wilson appears at FB despite being a TE. Defensive starters include JT Tuimoloau LEDGE, Big Cat Leonard Williams DT1, Gervon Dexter Sr DT2, Yaya Diaby REDGE, Rasheem Biles SAM, CJ Allen MIKE, Danny Stutsman WILL, Cam Taylor-Britt CB1, Ashton Hampton CB2, Camryn Bynum FS and A.J. Haulcy SS.
+Development tiers from roster: Yaya X-Factor; Sauce, Tet, Warren, Dickerson are Superstar; Jeremiah Smith, Ashton Hampton, Trevor Goosby and Rasheem Biles show hidden dev. Note that the roster header reports 5 Superstars overall, and some dev icons can be ambiguous in screenshots; the transcribed individual tiers are best-effort and should be revised if a closer view contradicts them.
+Specialist package ratings differ from base OVR; never replace player base OVR with slot-adjusted values. Screenshot depth chart shows Save / Discard Changes buttons, so treat it as owner-provided preseason lineup snapshot, not evidence a particular edit has been saved in Madden.
+
+
+## 2027 preseason Week 1 — staff, injuries and finance supplement
+These are owner-supplied in-game screenshots. Preserve this snapshot as distinct from subsequent events.
+
+### Injuries
+- Sauce Gardner (CB, 91 OVR): quad strain, injured preseason Week 1, 1 game to miss, expected return preseason Week 2, not on IR.
+- Kapena Gushiken (CB, 65 OVR): ACL sprain, injured preseason Week 1, 1 game to miss, expected return preseason Week 2, not on IR. The in-game prognosis is recorded as shown, not a medical forecast.
+
+### Coaching coordinators
+- Jim Bob Cooter: offensive coordinator, Level 6, age 42, experience 4, tenure 4, Colts playbook, West Coast Spread scheme. Visible skills: Big Back T3, Blitz Buster T2, Ahead of the Chains T1, Happier Feet T1, Head of the Class T1, Practician (HB) T1, Practician (QB) T1, Run N Shoot Gun Playsheet T1.
+- Lou Anarumo: defensive coordinator, Level 11, age 60, experience 8, tenure 4, Colts playbook, Tampa 2 scheme. Visible skills: Bookend Busters T4, Island Kings T4, Master of Disguise Playsheet T4, Mano a Mano T3, 3-3-5 Playsheet T2, Cover 2 Guru T2, Mr. Dream T2, Practician (CB) T2.
+- Both coordinators show 8–9 career record, 0–0 playoff record, 0 playoff appearances and 0 Super Bowl wins.
+
+### Salary cap (USD millions)
+- Salary cap $319.77M; rollover $36.14M; adjusted cap $355.91M; cap hits $250.05M; cap space $97.8M.
+- Total salaries $148.52M; total bonuses $77.83M; dead cap $23.7M; rookie reserve $0.
+- Finance panel displays **77 total players**, while the roster screen displays **79/75**. Do not silently reconcile these conflicting UI counts.
+- Detailed screenshot-transcribed contract ledger: **79 entries** in `data.js` under `contracts2027`, also displayed on the site. The screenshot contract 'total', 'salary', 'bonus', 'savings' and 'penalty' columns are not annual cap hits.
+- Notable displayed remaining contract totals: Sauce Gardner $119.75M (5-year length, 4 years left); Bernhard Raimann $88.77M (5, 3); Parker Washington $74.11M (4, 4); Tanor Bortolini $65.6M (5, 5); Cam Taylor-Britt $58.82M (5, 4); Yaya Diaby $32.61M (2, 2); Leonard Williams $22M (2, 2). Do not overwrite prior historical signing terms based solely on this current contract view.
