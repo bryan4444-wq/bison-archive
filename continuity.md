@@ -207,3 +207,7 @@ This ledger supersedes the earlier truncated 2026 supplement and its incorrect s
 - **Tetairoa McMillan acquisition** — Colts received: Tetairoa McMillan (WR). Colts sent: Alec Pierce (WR); Jerry Jeudy (WR). Owner explicitly confirmed Tet for Pierce and Jeudy. Counterparty name not independently legible in the retained trade screenshot; no extra terms invented.
 
 **Confirmed midseason free-agent signings (screenshot OVR at time of signing):** Jamal Hill (WILL 66), Donovan Edwards (HB 68), Justyn Ross (WR 74), Jermaine Burton (WR 74), Will Dissly (TE 72), Cam Robinson (LT 73), Haason Reddick (EDGE 75), Jaquelin Roy (DT 70), Channing Tindall (MIKE 66), Daijahn Anthony (FS 66). These are SIGNED players, not unsigned targets.
+
+
+## Archive 2.1: long-form media publication
+The website now publishes expanded prose documentary treatments of *Colts Wrapped*, *The Final Conversation*, and *Always Compete: The New Frontier*, plus an expanded reconstructed Daniel Mercer offseason column. These newly authored passages are narrative adaptations, NOT recovered original roleplay transcripts. Preserve established endings, player statistics, transactions, production boundaries, and the rule never to speak for Bryan. The 2027 documentary remains in progress; no 2027 games or episodes have been completed by this update.

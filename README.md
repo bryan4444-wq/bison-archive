@@ -60,14 +60,5 @@ The historical transaction section now contains 12 major trade entries with rece
 ### 2026 transaction ledger cache fix
 The website loads a versioned data.js URL to prevent GitHub Pages/browser caches from mixing the new 22-entry transaction ledger with an older four-entry data file. Upload **all four files together**. After GitHub Pages publishes, use Ctrl+Shift+R once if needed.
 
-
-## Archive 2.0: newsroom + films (October 2026)
-
-**Hosting remains GitHub Pages, at the same URL.** Upload *all* files in this ZIP to the repository root, not just the original four. The new `index.html` is the landing page. `archive.html` preserves the full original database, transaction ledger, roster, character bible, contracts, and continuity tools. `data.js` is shared by the database and must be uploaded in the same commit. `style.css` styles the new reading pages.
-
-Reading pages:
-- `mercer-offseason-2027.html`: full reconstructed Mercer offseason article recovered from the previous site.
-- `offseason-2027.html`: archived offseason overview.
-- `colts-wrapped.html`, `final-conversation.html`, `always-compete.html`: documentary story guides; no invented video, transcripts or game outcomes.
-
-**Future publishing:** Add a new `.html` story using the existing reading-page design and link it from the newsroom/films sections in `index.html`. No server, database or subscription is required. Existing GitHub Pages links to `index.html#roster` will need updating to `archive.html#roster`.
+## Archive 2.1 — Full written stories
+Expanded `colts-wrapped.html`, `final-conversation.html`, and `always-compete.html` into substantial chapter-by-chapter fictional documentary narratives. Expanded `mercer-offseason-2027.html` with deeper analysis. These are reconstructed creative prose, not recovered verbatim scripts. No dialogue is invented for owner Bryan, and no future game outcomes are fabricated. Deploy all files together to GitHub Pages.
