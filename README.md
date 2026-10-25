@@ -55,3 +55,7 @@ This revision adds three visible site sections: **Offseason** (2027 review), **B
 
 ## 2026 transaction ledger correction
 The historical transaction section now contains 12 major trade entries with received/sent packages and 10 confirmed midseason free-agent signings, searchable and filterable. The 2026 ledger in continuity.md supersedes prior abbreviated notes.
+
+
+### 2026 transaction ledger cache fix
+The website loads a versioned data.js URL to prevent GitHub Pages/browser caches from mixing the new 22-entry transaction ledger with an older four-entry data file. Upload **all four files together**. After GitHub Pages publishes, use Ctrl+Shift+R once if needed.
