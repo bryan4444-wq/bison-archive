@@ -74,3 +74,10 @@ Expanded `colts-wrapped.html`, `final-conversation.html`, and `always-compete.ht
 
 ## Archive 2.3 — 2027 preseason sweep
 New full Daniel Mercer column `mercer-preseason-2027.html`, homepage headline and 3–0 scoreboard, 33-entry Week 4 transaction page `preseason-transactions-2027.html`, updated documentary narrative, and authoritative continuity update. Source files came from user uploads; do not overwrite data.js with an older version. Madden Super Bowl LXII is a projection only. Upload ALL root files together to GitHub Pages.
+
+
+## Archive 2.4 — Final 53
+- New final 53-man roster and all four post-cut depth-chart tabs; updated team 87 OVR / 88 OFF / 87 DEF and development distribution.
+- Previous Week 1 roster, finances, injuries and contracts are historical snapshots.
+- Preserved 2026 transaction ledger, 2027 Week 4 transaction ledger, Mercer features, Mina documentaries, and 3–0 preseason results.
+- Upload all files together; updated data.js uses cache-busted `?v=20261026-roster53-v24` in database and archive views.
