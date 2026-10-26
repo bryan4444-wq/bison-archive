@@ -70,3 +70,7 @@ Expanded `colts-wrapped.html`, `final-conversation.html`, and `always-compete.ht
 - The database checks for 22 historical 2026 transactions and reports a stale/missing data.js file.
 - All 12 files must be uploaded together. On GitHub Pages, hard-refresh after deployment.
 - This does not claim browser-based QA of live deployment; source and syntax were validated locally.
+
+
+## Archive 2.3 — 2027 preseason sweep
+New full Daniel Mercer column `mercer-preseason-2027.html`, homepage headline and 3–0 scoreboard, 33-entry Week 4 transaction page `preseason-transactions-2027.html`, updated documentary narrative, and authoritative continuity update. Source files came from user uploads; do not overwrite data.js with an older version. Madden Super Bowl LXII is a projection only. Upload ALL root files together to GitHub Pages.

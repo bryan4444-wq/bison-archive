@@ -17,3 +17,16 @@
 .next-story a{display:block;font-size:23px;font-weight:800;margin-top:8px}
 @media(max-width:750px){.reading-toc ol{columns:1}.nav{gap:12px}.links a{padding:3px 0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.card{transition:none}}
+
+
+/* Archive 2.3 preseason coverage */
+.breaking-feature{background:linear-gradient(125deg,#512a26,#16283b 62%);border-color:#a95b48}
+.breaking-feature h3{font-size:clamp(24px,3vw,34px)}
+.scoreline{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:30px 0}
+.scoreline>div{padding:16px;background:var(--panel);border:1px solid var(--line);border-radius:10px}
+.scoreline strong{display:block;font-size:30px;line-height:1.2}
+.scoreline span{display:block;font-size:12px;color:var(--muted);margin-top:5px}
+.wide-reading{max-width:1080px}
+.wide-reading .roster{width:100%}
+.wide-reading .roster td{font-size:13px}
+@media(max-width:580px){.scoreline{gap:7px}.scoreline>div{padding:10px}.scoreline strong{font-size:21px}}
