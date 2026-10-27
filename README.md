@@ -81,3 +81,16 @@ New full Daniel Mercer column `mercer-preseason-2027.html`, homepage headline an
 - Previous Week 1 roster, finances, injuries and contracts are historical snapshots.
 - Preserved 2026 transaction ledger, 2027 Week 4 transaction ledger, Mercer features, Mina documentaries, and 3–0 preseason results.
 - Upload all files together; updated data.js uses cache-busted `?v=20261026-roster53-v24` in database and archive views.
+
+## Archive 2.6 — Built, Not Given Episode 01
+- Added `built-not-given-episode-01.html` with the full narrative treatment of The First Roar, including private screening, Colts acquisition, relocation, Patricia’s memorial, Tennessee 21–14, and the Beast Mode cliffhanger.
+- Linked the episode from the homepage Newsroom and Bison Films sections, and from the prior ongoing documentary page.
+- One duplicate intro paragraph was consolidated; chapter time markers are approximate. This is a fictional written screenplay, not a playable video.
+- The original no-fumbles-for-the-entire-regular-season Lamborghini agreement is unchanged despite Marshawn’s joking dialogue in the screening.
+
+
+## Archive 2.7 — Character Bible update
+Expanded searchable Character Bible entries for Andy, Lindy and Marshawn Lynch, plus a new continuity addendum. Updated data.js; upload all files together.
+
+## Archive 2.8 — Lindy character update
+Expanded Lindy’s canonical Character Bible entry: 33, white, from Iowa, petite and blonde; has grown to love Vietnamese home cooking through family meals with the Luongs. All other archive files and canon preserved. Upload all 18 files to the GitHub Pages repository root.

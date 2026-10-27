@@ -232,3 +232,28 @@ The website now publishes expanded prose documentary treatments of *Colts Wrappe
 - New/changed roster: Taylor Rapp SS 76, Tyson Campbell CB 76, Adam Prentice FB 68. Ratings changes include Jadarian Price 82, Trevor Goosby 82, Camryn Bynum 88, John Mateer 72, Ikem Ekwonu 84 at RG.
 - Opening roster replaces preseason camp 79-man list. Prior Week 4 transaction ledger remains historical; being signed then released or moved to practice squad is not the same as being on the final 53. Do not infer active injuries from older screenshot icons; Johnny Wilson has a visible injury marker in final roster.
 - Source limitation: the 53-man roster is reconstructed from multiple scrolling screenshots and final depth cards. The current archive retains historical base attributes when not contradicted by new images; new screenshots do not supply all contract/cap or every player attribute.
+
+## Documentary canon — Built, Not Given, Episode 01 (Week 1, 2027)
+Private executive screening at Love’s Field on the Friday following the 21–14 Titans win; public premiere scheduled for the following day. Episode title The First Roar, 23:48. Covers 2026 acquisition and relocation, team-building, Patricia Luong memorial unveiling, inaugural victory, JP’s two fumbles, and final Marshawn Lynch teaser. Andy continues negotiating possible sentimental reacquisition of M235i and FK8; no accepted offers. The established Urus bet requires zero fumbles throughout the entire regular season; JP’s Week 1 fumbles mean it has not been fulfilled.
+
+
+## Character Bible expansion — Week 2, 2027 (Archive 2.7)
+
+### Andy — Chief Administrative and Logistics Officer
+- Age 33; $300,000 base and potential 20% bonus ($60,000); middle-class background; business administration degree. Sarah interviewed him during the 2026 relocation. Bryan and Andy became friends **after** Andy joined the franchise, not in childhood. Andy is married; wife's name is not established.
+- Administrative and logistical problem-solver, not household chauffeur. Drove Bryan's Phantom from Dallas after Bryan negotiated the $595,000 demo down to $550,000 before tax. Cullinan ordered separately.
+- Recovered original Championship White FK8 Type R from Ethan Walker in Edmond for $35,000; ~68,400 miles, Eventuri intake, independent inspection passed with prior ECU flashing noted.
+- Original modified 2015 BMW M235i: Marcus Bennett in Fort Worth; $18,000 cash plus ~$6,800 loan payoff, estimated ~$24,800, subject to inspection/closing. Deal in principle only; not delivered or finalized. Marcus retains aftermarket wheels; factory wheels and spare parts included. Marcus does not know Bryan is buyer.
+
+### Lindy — household operations manager
+- **Profile update:** Age 33; white; originally from Iowa; petite, blonde. Through frequent shared meals with the Luong family, she has developed a genuine love for Vietnamese home cooking. This complements her established closeness to Q and the household; it does not change her authority or role.
+- Legal name Linda; Q coined 'Lindy' and calls her that. Andy sometimes says 'Linda' to tease her. Lives in detached mother-in-law suite, coordinates household transportation, vendors, scheduling and family logistics.
+- Phantom Extended purchased for her to chauffeur Q and Braylee; not a personal gift. Final approval delegated by Bryan for estate security expansion (dual gates, discreet stations, staffing, contractors, emergency safeguards).
+
+### Marshawn Lynch — independent running-back consultant
+- $2.5 million, one-month ball-security mentorship of JP, with an option to convert to full-time RB coach by Week 5; no conversion yet confirmed. Does not control game plans or personnel decisions.
+- Urus loan for 30 days. The original permanent-ownership condition is **zero fumbles of any kind for the entire 2027 regular season**, playoffs excluded. JP had two Week 1 fumbles, so this condition is already impossible as originally phrased; jokes about 'no more fumbles' do not change the agreement.
+
+### Continuity reconciliation
+- The source profile's final relationship table says 'longtime best friends,' but the detailed biography explicitly establishes Andy and Bryan met during the 2026 relocation. The detailed timeline governs.
+- Week 2 Jacksonville trip is upcoming/underway depending on scene; the Bison are 1–0. Do not invent a Cowboys game on the 2027 schedule.
