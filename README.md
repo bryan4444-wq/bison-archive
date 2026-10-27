@@ -94,3 +94,11 @@ Expanded searchable Character Bible entries for Andy, Lindy and Marshawn Lynch, 
 
 ## Archive 2.8 — Lindy character update
 Expanded Lindy’s canonical Character Bible entry: 33, white, from Iowa, petite and blonde; has grown to love Vietnamese home cooking through family meals with the Luongs. All other archive files and canon preserved. Upload all 18 files to the GitHub Pages repository root.
+
+
+## Version 2.9 — Week 2 photo
+Added `week2-jaguars-action.png`, a Week 2 Jaguars game page (`week2-2027.html`), and the image to the schedule page. Week 2 result remains pending.
+
+
+### 3.0 Week 2 result
+Week 2 Jacksonville W 31–14; 2–0 season record; full recap and new Daniel Mercer article; homepage and schedule updated.

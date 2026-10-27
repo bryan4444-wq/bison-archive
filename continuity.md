@@ -257,3 +257,14 @@ Private executive screening at Love’s Field on the Friday following the 21–1
 ### Continuity reconciliation
 - The source profile's final relationship table says 'longtime best friends,' but the detailed biography explicitly establishes Andy and Bryan met during the 2026 relocation. The detailed timeline governs.
 - Week 2 Jacksonville trip is upcoming/underway depending on scene; the Bison are 1–0. Do not invent a Cowboys game on the 2027 schedule.
+
+
+## 2027 Week 2 — Jacksonville (confirmed)
+- OKC Bison beat Jacksonville Jaguars 31–14, moving to 2–0 (52 points for, 28 against; +24).
+- Jadarian Price: 23 rushes, 191 yards, 2 TD, 0 fumbles; 2 receptions, 6 yards.
+- Trey Benson: 4 rushes, 43 yards, 2 TD, 0 fumbles. Will Howard: 11/19, 144 passing yards, 0 passing TD, 0 INT, 81.9 rating; 2 rushes for 23 yards. Ashton Prentice: 1 rush, 10 yards. Combined 267 rushing yards and four rushing TD.
+- Tyler Warren: 4 receptions, 57 yards; Parker Washington 2/12; Tetairoa McMillan 1/31; Jeremiah Smith 1/11; J. Wilson 1/27.
+- DeMarvion Overshown: 11 total tackles (10 solo, 1 assisted). Camryn Bynum: 10 tackles; Leonard Williams: 7 tackles, 2 TFL; AJ Haulcy: 6 tackles. CJ Allen on IR for five weeks.
+- Jacksonville: Tory Horton 7 receptions, 33 yards; Jakobi Meyers 5/76; Brian Thomas Jr. 4/64; Andrei Iosivas 1/13.
+- Daniel Mercer Week 2 column archived at mercer-week2-2027.html. Week 2 photo remains at week2-jaguars-action.png.
+- Marshawn's original zero-fumbles-for-entire-regular-season Urus condition remains broken by JP's two Week 1 fumbles; Week 2 zero fumbles does not reset it.
