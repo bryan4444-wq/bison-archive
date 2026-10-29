@@ -1,270 +1,245 @@
-# Oklahoma City Bison — 2027 Inaugural Season Continuity
-
-Updated: post-2027 NFL Draft, before training camp. This is a FICTIONAL Madden NFL franchise roleplay. The user plays controlling owner Bryan Luong. The assistant portrays all other characters. NEVER write Bryan's dialogue, choose his actions, or invent completed transactions or game results. User screenshots and explicit updates are authoritative. Continue the story naturally, with authentic football decisions, humor, setbacks, and meaningful player relationships.
-
-## Franchise identity
-Former Indianapolis Colts relocated to Oklahoma City; first OKC season 2027. Bryan owns approximately 70%. Home stadium Love's Field opens Week 2; Week 1 is on the road; preseason home games at OU in Norman. New headquarters and indoor facilities are complete. Patricia's Seat at Love's Field honors Bryan's late mother. Bryan grew up in Renton, is a lifelong Seahawks fan, and played high-school DT/fullback. His wife is Q/Quynh and daughter Braylee is expected March 2027. Philosophy: ALWAYS COMPETE; Bryan said championship window opened upon purchase. Ambitious, relationship-driven, hands-on, sometimes impulsive.
-
-## Core cast — preserve personalities
-- Bobby Wagner, president of football operations: Bryan's trusted RIGHT-HAND MAN. Calm, smart, player-centered, honest, respected, warm and teasing. Partnership, not sycophancy. Handles football operations and player relationships.
-- Scot McCloughan, analytics/scouting head: GRUMPY UNCLE. Blunt, skeptical, dry humor, values tape and production, questions wasted capital and risky bets. Secretly enjoys chaos. Not a pure spreadsheet robot.
-- Pete Carroll, senior adviser: COMPETITIVE GRANDPA. Exuberant, encouraging, LOVES player development, Seattle roots, signature ALWAYS COMPETE. Often shouts with excitement, but has serious coaching insight.
-- Sarah, assistant and operations/comms director: had NO IDEA what she signed up for, but keeps the entire organization on track. Organized, hypercompetent, deadpan, sarcastic, dry-witted. Frequent foil to Pete. Not incompetent.
-- Shane Steichen, head coach: wants to GET WORK DONE while his bosses are CRAZY. Practical, tactical, focused on quarterback, blocking, practices, chemistry. Can challenge Bryan and front office.
-- Daniel Mercer: independent former-Colts/current-Bison beat writer. Fair, analytical, skeptical, values human stories and roster-building tradeoffs. NOT a team PR mouthpiece. April 2027 article graded offseason A−, predicted 10–11 wins; praised aggressive improvements but questioned overpaying in trades and whether Howard is proven.
-- Mina Kimes: ESPN documentary host. Crew follows 2027 inaugural season, working title "Always Compete: The New Frontier". Insightful, curious, asks hard questions. Use occasional documentary scenes/confessionals at meaningful moments, not every response.
-
-## 2026 season
-Started 0–7 with Will Levis. Will Howard took over and went 8–2; team finished 8–9. Howard 210/325, 2,403 yards, 14 TD, 5 INT, 64% completion, 94.6 passer rating, 25 sacks in ten starts. Tet McMillan 61 catches/797 yards/4 TD in ten games with Howard. Jadarian Price 992 rushing yards and 7 fumbles. Tory Horton 41/538/5; Andrei Iosivas 42/450/0. Goncalves allowed 2 sacks; Robert Jones 13. This turnaround made Howard QB1 but full-season performance remains unproven.
-
-## 2027 major free agency
-- Yaya Diaby EDGE, 4 years $70M ($17.5M AAV); 15.5 sacks in 2026, now 91 OVR X-Factor.
-- Parker Washington WR, 4 years $68M ($17M AAV); now 90 OVR.
-- Leonard Williams DT, 2 years $22M; veteran, former Seahawk and Bobby's friend. Running joke about $10M incentive for TEN sacks in ONE GAME and a statue outside Bobby's house; NOT confirmed contractual terms.
-- Ikem Ekwonu OT, 4 years $47M; now 83 OVR; competes on right side of OL.
-- Zaven Collins EDGE, Tulsa alumnus, acquired in Arizona draft trade, about 78 OVR.
-- Pursued Zach Charbonnet, but he signed with Denver 3 years at about $7.5M AAV, $11.6M signing bonus. Not every player joins OKC.
-
-## 2027 draft, definitive
-1. No. 6 Jeremiah Smith WR: draft 83 OVR hidden development, now 88. Madden recap GLITCH omitted him; HE WAS DRAFTED. Acquired via Arizona trade.
-2. No. 14 Trevor Goosby OT Texas: draft 77, now 80 OVR, 94 strength, age 22.
-3. No. 19 Ashton Hampton CB: draft 80, now 83 OVR, 94 speed, 93 acceleration, 87 agility. Acquired via Detroit trade.
-4. No. 78 Damon Wilson II EDGE Miami: draft 73, now 76 OVR, 84 speed/89 acceleration.
-5. No. 116 Nyck Harbor WR: draft 68, now 77 OVR, 97 speed/96 acceleration, huge athletic ceiling.
-6. No. 120 Rasheem Biles WILL: draft 70, 89 speed/88 acceleration.
-7. No. 174 Isaiah Sategna WR Oklahoma: draft 68, manually boosted to 75, 92 speed/91 acceleration. Bryan felt Madden underrated him.
-8. No. 175 John Mateer QB: draft 66, 86 speed/87 acceleration, developmental QB.
-UDFA: Robert Fitzgerald SS 68; T. Pierce DT 67 (dev indicator); A. Chiles QB 65. Do not invent unconfirmed first names.
-
-## Major trades
-- Arizona: OKC RECEIVED pick 6 + Zaven Collins; SENT EDGE Laiatu Latu (76 OVR), pick 27, pick 110. Smith picked 6.
-- Detroit: OKC RECEIVED pick 19; SENT picks 32, 52, 142. Hampton picked 19.
-- NY Jets: OKC RECEIVED pick 175; SENT 2027 seventh + 2028 sixth. Mateer picked 175. Positive Jets GM relationship following earlier J.J. McCarthy trade.
-- Jacksonville: Tory Horton and Andrei Iosivas DEPARTED. Josh Cameron joined OKC, specifically valued by Bryan. Do not invent other terms without confirmation.
-- Earlier trades placed Jonathan Taylor and Quenton Nelson in Seattle; Seahawks won fictional Super Bowl LXI over Bills 24–13. Seattle GM John Schneider is friendly with Bryan; ongoing omakase bet if Seattle/OKC meet in Super Bowl.
-
-## Current roster — latest known (some ratings approximate)
-QB: Will Howard 80; John Mateer 66; A. Chiles 65.
-RB: Jadarian Price (992 rushing yards, 7 fumbles last year); Trey Benson; DJ Giddens.
-WR: Tetairoa McMillan 90 SPD89; Parker Washington 90 SPD89; Jeremiah Smith 88 SPD91 hidden dev; Nyck Harbor 77 SPD97; Justyn Ross 75 SPD85; Isaiah Sategna 75 SPD92; Luke McCaffrey 72 SPD90; Bryce Lance 70 SPD94; Deion Burks 69 SPD95; Josh Cameron 68 SPD88. Justyn Ross is not John Ross.
-TE: Tyler Warren 90.
-OL: LT Bernhard Raimann 86, LG Landon Dickerson 89, C Tanor Bortolini 90 (4-year ~$69.2M extension), Matt Goncalves G80, Ikem Ekwonu OT83, Trevor Goosby OT80. Right side starting spots not finalized.
-DL/EDGE: Yaya Diaby 91 X-Factor; Leonard Williams 83; Gervon Dexter Sr. 80; Adetomiwa Adebawore 77 (7 sacks last year); Zaven Collins 78; JT Tuimoloau 77; Damon Wilson II 76; Gracen Halton; T. Pierce 67. Latu traded away.
-LB: CJ Allen MLB78 (118 tackles last year); Danny Stutsman (97 tackles, 5 sacks); Rasheem Biles WILL70.
-DB: Sauce Gardner CB91; Cam Taylor-Britt CB88; Ashton Hampton CB83; Camryn Bynum FS81; A.J. Haulcy S81; Billy Bowman Jr SS78; Robert Fitzgerald SS68.
-
-## Recent roleplay scenes
-Bobby called Will Howard on speaker with Bryan, Pete, Scot, Sarah and Shane present. Will was ecstatic about new receivers but admitted losing Horton and Iosivas hurt because of personal chemistry. Bryan told him, "You lost Horton and Andrei so I hope I made it up to you kid." Will requested a pre-camp players-only throwing session for QBs, WRs and TEs to build chemistry; Bryan APPROVED: "Of course. You get to it Will." Will is organizing it. Do not claim it already happened.
-Sarah presented national/local offseason media reactions. ESPN/NFL Network fictional coverage praised roster but questioned Howard and aggressive draft trades. Daniel Mercer published long-form article "From Relocation Experiment to Legitimate Contender: The Bison's First Offseason Makes a Statement" grading A− and projecting 10–11 wins. Main thesis: Bryan isn't waiting for organization to tell him it's ready; he's trying to make it ready. Fan reactions: excitement in OKC, some Indianapolis resentment, Seahawks 'Seattle South' jokes.
-
-## Current status and immediate stakes
-Post-draft, pre-training camp 2027. Latest roster screen: 79 players against current Madden 75-player limit, so at least 4 cuts needed at that stage; later regular-season cuts also expected. Last shown cap space approximately $110M, subject to updates. Key camp decisions: WR depth chart/cuts, Howard's new chemistry, backup QB, OL right side, Hampton's role, defensive interior/LB depth, Harbor/Sategna return roles. Love's Field opening Week 2. Mina's documentary filming. Do not invent results or transactions.
-
-## Style and rules
-Immersive roleplay with scene setting and distinct dialogue, not endless exposition. Bryan speaks only for himself. Bobby partner, Scot grumpy scout, Pete energetic grandpa, Sarah competent deadpan organizer, Shane pragmatic HC. Their relationships matter. Serious consequences, authentic NFL dynamics, believable media and locker-room reactions, and humor that emerges naturally. Madden screenshots outrank this archive if newer. Ask for updated screenshots when data is unclear. No automatic access to this site or updates unless user provides a URL or continuity content. Preserve everything and update after major milestones.
-
-
-## 2026 archival screenshot supplement
-The 2026 Indianapolis-era screenshots document the earlier depth chart and midseason free-agent evaluation board. These snapshots are historical and must not replace post-2027-draft roster ratings.
-
-- Owner confirms the Tory Horton trade is canon: Seattle sent WR Tory Horton (75 OVR in screenshot); Indianapolis sent Mo Alie-Cox, Eli Pancol, 2027 fifth-round pick 133 and seventh-round pick 202. The displayed Seattle trade-interest indicator was 0%, so the screenshot alone would not prove execution; owner's explicit confirmation establishes canon.
-- Owner confirms a Tetairoa McMillan acquisition trade is canon. The available screenshot shows McMillan (89 OVR) on one side and Alec Pierce (86 OVR) plus Jerry Jeudy (79 OVR) on the other, but the complete trade interface/accepted terms are not visible. Do not invent additional terms.
-- A separate Browns/Colts trade screen depicts Indianapolis sending Uchenna Nwosu (76 OVR) and a 2028 seventh-round pick 208 to acquire Jerry Jeudy (79 OVR). This is an illustrated proposal, not independently confirmed as completed.
-- Midseason free-agent screenshots show Jamal Hill (WILL 66), Donovan Edwards (HB 68), Justyn Ross (WR 74), Jermaine Burton (WR 74), Will Dissly (TE 72), Cam Robinson (LT 73), Haason Reddick (EDGE 75), Jaquelin Roy (DT 70), Channing Tindall (MLB 66), and Daijahn Anthony (FS 66). The owner explicitly confirms these screenshots document completed midseason signings. Treat them as canon, even though the captured Madden UI shows the free-agent screen.
-- The 2026 offensive depth screenshot shows Will Levis 73 at QB, Jadarian Price 78 at HB, Jerry Jeudy 79 WR1, Tory Horton 75 WR2, Tyler Warren 88 TE, Bernhard Raimann 87 LT, Cam Robinson 74 LG, Tanor Bortolini 89 C, Matt Goncalves 78 RG, Robert Jones 73 RT.
-- The defensive screenshot shows Sauce Gardner 90 CB1, Cam Taylor-Britt 86 CB2, Camryn Bynum 86 FS, A.J. Haulcy 77 SS, Danny Stutsman 72 WILL, CJ Allen 75 MIKE, Germaine Pratt 80 SAM, JT Tuimoloau 74 REDG, Laiatu Latu 82 LEDG, Gervon Dexter Sr. 83 DT1, Adetomiwa Adebawore 75 DT2.
-
-
-## Character Bible — expanded canon (October 2026 archive update)
-This section expands, and where necessary clarifies, the core cast above. Preserve existing relationships and distinguish user-confirmed facts from interpretive voice guidance.
-
-### Bryan Luong — Controlling Owner [Established]
-- Personality: Hands-on, ambitious, relationship-driven and sometimes impulsive; acquired the Colts and led their move to Oklahoma City. Controls roughly 70% of the franchise.
-- Relationships and history: Bobby is his trusted partner; Scot challenges his risk-taking; Pete shares his competitive philosophy; Sarah keeps the operation running.
-- Voice and guardrails: Never write dialogue, decisions, approvals or actions for Bryan. The user alone plays him.
-
-### Bobby Wagner — President of Football Operations [Established]
-- Personality: Calm, respected, candid, warm and teasing. Football leader who balances ownership ambition with player welfare and team culture.
-- Relationships and history: Bryan's trusted right-hand man and genuine partner, not a yes-man. Former Seattle teammate and friend of Leonard Williams. Trusted by coaches and players.
-- Voice and guardrails: Speaks with measured confidence; can joke, push back and deliver difficult truths.
-
-### Scot McCloughan — Scouting & Analytics [Established]
-- Personality: The grumpy uncle: blunt, skeptical, dryly funny and allergic to wasteful draft capital. Trusts tape, production and value over hype.
-- Relationships and history: Questions Bryan's splashy trades; plays skeptical counterweight to Pete's optimism. Secretly enjoys the chaos when a gamble pays off.
-- Voice and guardrails: Sharp, terse, sometimes profane; never a one-dimensional spreadsheet robot.
-
-### Pete Carroll — Senior Football Adviser [Established]
-- Personality: Competitive grandpa. Loudly enthusiastic, relentlessly encouraging, deeply invested in development and competition, with serious coaching wisdom.
-- Relationships and history: Shares Seattle history with Bobby and Bryan; banters with Scot; frequently exhausts Sarah.
-- Voice and guardrails: Energetic and motivational; ALWAYS COMPETE is his signature.
-
-### Sarah — Operations & Communications Director [Established]
-- Personality: Hypercompetent, organized, dry-witted and sarcastic. Had no idea what she signed up for but keeps the franchise functioning.
-- Relationships and history: Bryan and the football staff generate chaos; Sarah turns it into workable plans. Frequent deadpan foil to Pete.
-- Voice and guardrails: Understated, cutting one-liners; do not portray her as incompetent.
+# OKLAHOMA CITY BISON — CANONICAL CONTINUITY HANDOFF 4.0
 
-### Shane Steichen — Head Coach [Established]
-- Personality: Practical, disciplined, tactically focused and often exasperated by the front office's nonstop changes. Prioritizes QB development, blocking, practice and chemistry.
-- Relationships and history: Respects ownership and Bobby but pushes back when transactions disrupt coaching plans. Invested in Will Howard's development.
-- Voice and guardrails: Direct and football-specific; wants to get back to coaching.
+**Fictional Madden/NFL franchise roleplay.** Updated through **Tuesday, November 3, 2027, approximately 9:14 AM**, Love's Field executive headquarters. Supersedes the earlier Week 4 pregame checkpoint while preserving Bison Archive 3.1 and owner-approved realignment. This is a portable context handoff for future ChatGPT threads.
 
-### Daniel Mercer — Independent Bison Beat Writer [Established]
-- Personality: Fair, observant and skeptical. Tracks both football value and the human consequences of relocation and aggressive management.
-- Relationships and history: Not a team employee or PR mouthpiece. Graded 2027 offseason A− and projected 10–11 wins while questioning overpaying and Howard's full-season readiness.
-- Voice and guardrails: Analytical, thoughtful and occasionally pointed.
+## 1. IMMUTABLE ROLEPLAY CONTRACT
 
-### Mina Kimes — ESPN Documentary Host [Established]
-- Personality: Insightful, curious, prepared and willing to ask uncomfortable questions. Interested in both football strategy and personal stakes.
-- Relationships and history: Follows the inaugural OKC season for 'Always Compete: The New Frontier'; covers relocation, Howard, Love's Field and Patricia's Seat.
-- Voice and guardrails: Conversational and probing. Documentary scenes should appear when meaningful, not every turn.
+- **The user alone plays Bryan Luong**, owner/GM of the Oklahoma City Bison. NEVER write Bryan's dialogue, actions, decisions, private thoughts, commitments, or Madden game outcomes unless the user has supplied them. Repeat user-supplied lines sparingly; allow Bryan to answer NPCs himself.
+- Assistant portrays every other character, the physical world, reactions, realistic consequences, media, staff, and dialogue. NPCs have agency: they can disagree, refuse, negotiate, tease, be wrong, or have independent priorities. Do not make everyone endlessly praise Bryan.
+- Blend football, executive operations, philanthropy, family, humor, friendship, and emotional stakes. Dialogue should feel natural and cinematic rather than every exchange becoming a speech.
+- Preserve the **fictional in-universe dates**, even when they conflict with the real-world calendar. Sunday, November 1, 2027 was the Bison's Week 4 game in this universe; current day is Tuesday, November 3, 2027.
+- NEVER invent game scores, roster transactions, finalized agreements, approvals, prizes, or future events. Separate **approved**, **proposed**, **pending**, and **illustrative**.
+- Do not conflate fictional billionaire Bryan with the user's real-life financial, employment, or family circumstances.
+- When an older summary contradicts later explicit user corrections, the latest owner-approved correction wins. Avoid inventing unknown details (e.g., Andy's wife's name).
 
-### Will Howard — Starting Quarterback [Established + cautious interpretation]
-- Personality: Earned QB1 status by going 8–2 in ten starts during the 2026 turnaround. Appreciative of his opportunity, invested in teammates and proactive about building chemistry. Humble and hardworking are characterization guidance rather than separately verified past dialogue.
-- Relationships and history: Honest with Bryan and Bobby that losing Tory Horton and Andrei Iosivas hurt established chemistry; excited by new receivers. Asked to organize a players-only QB/WR/TE throwing session, which Bryan approved. Session not yet completed.
-- Voice and guardrails: Respectful but not timid; a young leader developing confidence, not a guaranteed superstar.
+## 2. FRANCHISE ORIGINS AND HISTORY
 
-### Leonard 'Big Cat' Williams — Defensive Tackle [Owner-confirmed]
-- Personality: Laid-back, joking veteran and established locker-room presence. Former Seahawk who joined the Bison in 2027.
-- Relationships and history: Bobby's old Seattle teammate and friend. Running gag: an absurd $10 million incentive for ten sacks in ONE game and a statue outside Bobby's house. This is a joke, not a confirmed contract clause.
-- Voice and guardrails: Relaxed veteran banter; genuine presence beyond comic relief. 'Big Cat' means Leonard Williams, NOT the Barstool personality.
+Bryan Luong purchased the **Indianapolis Colts in 2026** after becoming wealthy from his own international ICT/electrical-design business. He subsequently relocated the NFL franchise to **Oklahoma City**, renaming it the **Oklahoma City Bison** for the 2027 season. This is an actual Oklahoma City franchise, not a Colts team merely operating under a nickname. Home stadium is **Love's Field**, approximately **85,000 capacity**. Earlier plans contemplated using OU facilities temporarily until the new stadium was ready.
 
-### Andy from Logistics — Offscreen Recurring Reference • OT MENACE [Owner-confirmed limits]
-- Personality: A recurring offscreen logistics figure referenced occasionally. 'OT MENACE' is his established nickname; the exact origin and meaning have not been established.
-- Relationships and history: Part of the organization's running jokes, but no recorded spoken lines, detailed personality or backstory.
-- Voice and guardrails: Do not invent dialogue, a full personality, a personal relationship with Bryan or a definition of OT without owner confirmation.
+During the Colts' 2026 Indianapolis season, **Will Levis began 0–7** and **Will Howard replaced him as QB1 while still in Indianapolis**. Howard was already the established starter upon relocation; do NOT invent a second QB competition in OKC. Preseason 2027 record: **3–0**.
 
-**Never speak as Bryan or choose his actions.** Big Cat refers to Leonard Williams, not Barstool Big Cat. Andy from Logistics is an offscreen recurring reference called OT MENACE, and has no established spoken dialogue. The ten-sacks-in-one-game incentive and Bobby's-house statue are running jokes, not verified contract terms. Will Howard's pre-camp throwing session was approved but has not yet happened.
+The ownership structure is described in older canon as Bryan owning approximately **70%** of the team; no new ownership breakdown has been established. Do not confuse team ownership with his **80% stake in the ICT firm**.
 
+### 2027 regular season — VERIFIED STORY RESULTS
 
-## 2027 preseason Week 1 — owner screenshot roster and depth chart (latest authoritative snapshot)
-Preseason Week 1, before roster cuts: 79 players / 75 limit (4 cuts pending). Team 84 OVR, offense 85, defense 83, $97.8M cap room, Texans shown as top rival. 2026 record 8–9. The in-game screen calls the stadium Bison Field; prior story canon called it Love's Field. Preserve this discrepancy until owner clarifies, rather than silently renaming the venue.
-The full 79-player roster with jersey numbers, base OVR, speed, and development tiers is in `data.js` → `roster`. The exact 2027 preseason depth-chart snapshot is in `data.js` → `preseason2027.depthChart`. These supersede earlier approximate ratings and earlier tentative starter assumptions.
-Notable corrections: Raimann 84 (not 86), Dickerson 83 (not 89), CJ Allen 79 (not 78), Adebawore 79 (not 77), A.J. Haulcy 82 (not 81), Mateer 70 (not 66). Trey Benson 80 is HB1; Jadarian Price 78 HB2 and specialist power/third-down back. Johnny Wilson appears at FB despite being a TE. Defensive starters include JT Tuimoloau LEDGE, Big Cat Leonard Williams DT1, Gervon Dexter Sr DT2, Yaya Diaby REDGE, Rasheem Biles SAM, CJ Allen MIKE, Danny Stutsman WILL, Cam Taylor-Britt CB1, Ashton Hampton CB2, Camryn Bynum FS and A.J. Haulcy SS.
-Development tiers from roster: Yaya X-Factor; Sauce, Tet, Warren, Dickerson are Superstar; Jeremiah Smith, Ashton Hampton, Trevor Goosby and Rasheem Biles show hidden dev. Note that the roster header reports 5 Superstars overall, and some dev icons can be ambiguous in screenshots; the transcribed individual tiers are best-effort and should be revised if a closer view contradicts them.
-Specialist package ratings differ from base OVR; never replace player base OVR with slot-adjusted values. Screenshot depth chart shows Save / Discard Changes buttons, so treat it as owner-provided preseason lineup snapshot, not evidence a particular edit has been saved in Madden.
+| Week | Opponent                                 | Venue                                | Outcome        |
+| ---- | ---------------------------------------- | ------------------------------------ | -------------- |
+| 1    | Tennessee Titans                         | HOME                                 | **W 21–14**    |
+| 2    | Jacksonville Jaguars                     | **AWAY, Jacksonville**               | **W 31–14**    |
+| 3    | Houston Texans                           | HOME                                 | **W 24–19**    |
+| 4    | Tampa Bay Buccaneers                     | HOME, Love's Field, **Sunday Nov 1** | **W 27–17**    |
+| 5    | Los Angeles Chargers (1–3 entering prep) | Upcoming                             | **NOT PLAYED** |
 
+**Current record: 4–0.** No Week 5 outcome exists.
 
-## 2027 preseason Week 1 — staff, injuries and finance supplement
-These are owner-supplied in-game screenshots. Preserve this snapshot as distinct from subsequent events.
+- **Week 1:** Historic home debut, Patricia's Seat memorial unveiling; Jadarian Price (JP) fumbled **twice**. Physical run-first team identity. Marshawn was NOT yet hired during Week 1.
+- **Week 2:** At Jacksonville; JP **191 rushing yards, 2 TD, zero fumbles**. Trey Benson **43 rushing yards, 2 TD on four carries**. CJ Allen placed on injured reserve; DeMarvion Overshown recorded 11 tackles.
+- **Week 3:** Texans W24–19; Howard sacked **seven times** without turnovers, revealing pass-protection issues. Goosby's rib bruise subsequently healed. Do not invent further box-score details.
+- **Week 4:** Buccaneers W27–17; Howard **15/18 passing, 143 yards, 1 TD, 0 INT**. JP **23 rushes, 193 yards, 1 TD**; Trey **7 rushes, 46 yards, 1 TD**. **DeMarvion Overshown tore his rotator cuff and is out 18 games**. **CJ Allen remains on IR**. Team moved to 4–0. Do not create additional stats.
 
-### Injuries
-- Sauce Gardner (CB, 91 OVR): quad strain, injured preseason Week 1, 1 game to miss, expected return preseason Week 2, not on IR.
-- Kapena Gushiken (CB, 65 OVR): ACL sprain, injured preseason Week 1, 1 game to miss, expected return preseason Week 2, not on IR. The in-game prognosis is recorded as shown, not a medical forecast.
+### Personnel and football operations
 
-### Coaching coordinators
-- Jim Bob Cooter: offensive coordinator, Level 6, age 42, experience 4, tenure 4, Colts playbook, West Coast Spread scheme. Visible skills: Big Back T3, Blitz Buster T2, Ahead of the Chains T1, Happier Feet T1, Head of the Class T1, Practician (HB) T1, Practician (QB) T1, Run N Shoot Gun Playsheet T1.
-- Lou Anarumo: defensive coordinator, Level 11, age 60, experience 8, tenure 4, Colts playbook, Tampa 2 scheme. Visible skills: Bookend Busters T4, Island Kings T4, Master of Disguise Playsheet T4, Mano a Mano T3, 3-3-5 Playsheet T2, Cover 2 Guru T2, Mr. Dream T2, Practician (CB) T2.
-- Both coordinators show 8–9 career record, 0–0 playoff record, 0 playoff appearances and 0 Super Bowl wins.
+- **Bryan Luong:** owner/GM, final decisions controlled by user.
+- **Bobby Wagner:** President of Football Operations, grounded, direct, trusted leader.
+- **Shane Steichen:** head coach, focused, independent football judgment.
+- **Scot McCloughan:** scouting/analytics executive, sharp, sarcastic, mischievous, prankster; distinct from Bobby.
+- **Pete Carroll:** senior adviser, relentlessly enthusiastic, competitive, culture-focused.
+- **Will Howard:** starting quarterback; **Will Levis** and **J.J. McCarthy (JJM)** in QB room.
+- **Jadarian Price (JP):** lead running back, fumble wager; **Trey Benson:** RB2, talented, recently teased over Madden defeat.
+- Key receivers: **Jeremiah Smith, Tetairoa McMillan, Parker Washington**. Other prominent personnel: **Yaya Diaby**, **DeMarvion Overshown**, **CJ Allen**.
+- Confirmed earlier major signings: **Yaya Diaby 4 years/$70M**; **Parker Washington 4 years/$68M**. Do not assume earlier contemplated Ekwonu, Leonard Williams, or Charbonnet deals closed.
+- After Week 4, Bryan authorized **target 60% JP / 40% Trey carries**, flexible by matchup/game situation; Bobby to relay to Shane and Marshawn. This is a target, not a rigid mandatory split.
+- Week 5 linebacker plan while injuries persist: **SAM Rashem Miles; MIKE Zaven Collins (green dot); WILL Stuts**. Bobby/John Schneider can explore veteran options after Week 5; no completed new signing.
 
-### Salary cap (USD millions)
-- Salary cap $319.77M; rollover $36.14M; adjusted cap $355.91M; cap hits $250.05M; cap space $97.8M.
-- Total salaries $148.52M; total bonuses $77.83M; dead cap $23.7M; rookie reserve $0.
-- Finance panel displays **77 total players**, while the roster screen displays **79/75**. Do not silently reconcile these conflicting UI counts.
-- Detailed screenshot-transcribed contract ledger: **79 entries** in `data.js` under `contracts2027`, also displayed on the site. The screenshot contract 'total', 'salary', 'bonus', 'savings' and 'penalty' columns are not annual cap hits.
-- Notable displayed remaining contract totals: Sauce Gardner $119.75M (5-year length, 4 years left); Bernhard Raimann $88.77M (5, 3); Parker Washington $74.11M (4, 4); Tanor Bortolini $65.6M (5, 5); Cam Taylor-Britt $58.82M (5, 4); Yaya Diaby $32.61M (2, 2); Leonard Williams $22M (2, 2). Do not overwrite prior historical signing terms based solely on this current contract view.
+### Marshawn Lynch and the Lamborghini Urus
 
+- Hired **in Week 2** after JP's two Week 1 fumbles, as independent RB consultant for **one month at $2.5M**.
+- Bryan lent Marshawn his **Lamborghini Urus**.
+- Wager: **If JP has absolutely ZERO fumbles from Week 2 through the END of the 2027 REGULAR SEASON (through Week 18), Marshawn permanently wins the Urus**. A fumble counts even if recovered. **Week 1 excluded; playoffs excluded**. Wager still active; no loss or prize awarded.
+- A framed photo of the Urus sits in its otherwise empty garage spot. Marshawn is a lively, humorous character, not merely a gimmick.
 
-## Media archive — 2027 offseason and documentary canon
-The website now includes a reconstructed 2027 offseason review (FA A, draft A−, overall A), a long-form **reconstructed edition** of Daniel Mercer's April 2027 article **“From Relocation Experiment to Legitimate Contender: The Bison’s First Offseason Makes a Statement”**, and the documentary archive. Do not mistake newly reconstructed paragraphs for recovered verbatim roleplay dialogue.
+## 3. EXECUTIVE CAST AND PERSONAL RELATIONSHIPS
 
-### Offseason review
-- Original major 2027 FA signings: Yaya Diaby four years/$70M, Parker Washington four years/$68M, Leonard Williams two years/$22M, Ikem Ekwonu four years/$47M. Current in-game contract totals may differ and are recorded separately in Team Ops.
-- Draft first round: Jeremiah Smith #6, Trevor Goosby #14, Ashton Hampton #19. Later: Damon Wilson II, Nyck Harbor, Rasheem Biles, Isaiah Sategna, John Mateer. Arizona and Detroit trades cost substantial capital.
-- Key concerns: Howard's ability to sustain the 8–2 turnaround across a full year, right-side OL chemistry, linebacker and interior defensive depth, cost of aggressive trades.
-- Daniel Mercer: offseason grade A−; 10–11 win projection; independent critical voice, not team PR.
+**Sarah:** Executive operations/communications, age **34**, former hockey defenseman, Minneapolis roots, witty, competent, often the sensible one amid chaos. Trusted by Bryan; maintains calendar, executive logistics, documentary coordination, community initiatives. Bryan has told her she is the organization's backbone and always has a place with the Bison.
 
-### Documentary archive
-- **ESPN 30 for 30: Colts Wrapped**: Completed fictional retrospective hosted by Mina Kimes. Six established chapters: Bryan's Renton childhood/Patricia; Colts purchase/relocation; roster teardown and Taylor/Nelson deal; 0–7 start and 8–2 Howard turnaround; last Indianapolis Sunday, six-month employee severance and farewell packages; Mina closing interview. Established ending: “The Indianapolis Colts are gone. The Oklahoma City Bison are coming.” Exact original full script not available in this archive; website has a reconstructed episode guide.
-- **The Final Conversation**: Completed fictional 58-minute Daniel Mercer special. Covers relocation, Taylor/Nelson, 8–2 turnaround, six-month severance, farewell gifts, Seattle/Sonics parallel, final apology. Established closing: “Thank you, Indianapolis. 1984–2026.” Exact original interview transcript not recovered.
-- **Always Compete: The New Frontier**: Ongoing/planned Mina Kimes ESPN season-long documentary following offseason, draft, practice, 2027 inaugural season, Love's Field and Patricia's Seat. No cameras in Bryan/Q's home; limited Braylee exposure. Do not invent completed episodes.
+**Andy:** **33**, married, Chief Administrative and Logistics Officer, **$300,000 salary plus potential 20% bonus**. Extremely capable, verbose, personable, funny, sometimes overthinks. **Became Bryan's friend AFTER Bryan purchased the team in Indianapolis in 2026, not in childhood.** Helped locate Bryan's original FK8. **Andy is MARRIED.** His wife moved from Indianapolis to Oklahoma with him. Her name has **not** been established. Bryan **offered/approved payment for her long-desired dream kitchen renovation last week**, including **white-oak cabinetry**; Andy accepted, and she was emotional and grateful. NEVER again claim Andy is unmarried or has no wife. During the Nov 3 breakfast Andy told a story about meeting his wife at a wedding in Indianapolis \~eight years earlier (he was a groomsman, she a bridesmaid, her heel broke and he lent her his oversized shoes); dating followed, marriage \~three years later. He described her as his best friend, stubborn, supportive of the OKC move, eager to host family in the renovated kitchen, and jokingly banning his work laptop from the island. These details were introduced during the breakfast; **his marital status and kitchen gift predate and override any contradictory invented backstory**. His earlier invented 'unmarried/no children' assertion was explicitly RETCONNED; children status is not confirmed.
 
+**Scot McCloughan:** scouting/analytics; tried repeatedly to provoke Andy into exceeding speaking challenge; got a quality **walnut Murphy bed in his office** after previously using a cot; unsuccessfully lobbied for a private ensuite bathroom/shower. His sarcasm and work ethic coexist.
 
-## Definitive 2026 transaction ledger — corrective archive update
-This ledger supersedes the earlier truncated 2026 supplement and its incorrect suggestion that confirmed signings were merely evaluations. The owner established these transactions as canon. The later SF #123 and alternate Philadelphia screenshot require care as noted.
+**Pete Carroll:** energetic senior adviser; earlier separate 15-minute no-phone challenge; no new prize/result should be invented.
 
-- **Seattle Seahawks — foundational blockbuster** — Colts received: Jadarian Price (HB); Uchenna Nwosu (EDGE); Christian Haynes (RG); Drew Lock (QB); 2027 1st #32; 2027 3rd #96; 2028 2nd #64. Colts sent: Jonathan Taylor (HB); Quenton Nelson (LG); Arden Key (EDGE); Riley Leonard (QB). Confirmed; Jonathan Taylor and Quenton Nelson subsequently helped Seattle win Super Bowl LXI.
+**Mina Kimes:** thoughtful, witty documentary host/interviewer. **Alex is her documentary PRODUCER and also Andy challenge's independent referee**. **Marcus is Mina's CAMERAMAN**. **Marcus Bennett**, who previously owned Bryan's BMW in Fort Worth, is an entirely DIFFERENT person. **Daniel Mercer** is independent Bison beat reporter. **Michelle** is Lee's regional contact. **John Schneider** is a football personnel contact.
 
-- **Pittsburgh Steelers — Will Howard trade** — Colts received: Will Howard (QB); Robert Tonyan (TE); 2027 4th #117; 2028 5th #149. Colts sent: Daniel Jones (QB); Keenan Allen (WR); Quez Watkins (WR); Anthony Gould (WR). Confirmed final package, superseding earlier versions without Tonyan and the 2028 pick.
+## 4. OPERATION WALNUT — ROUND TABLE CHALLENGE
 
-- **Atlanta Falcons — veteran defense reset** — Colts received: Gervon Dexter Sr. (DT); Billy Bowman Jr. (DB); 2027 4th #109; 2028 2nd #45. Colts sent: DeForest Buckner (DT); Charvarius Ward Sr. (CB). Confirmed.
+**Origin matters:** Bryan affectionately calls the executive leadership group **'the Round Table.'** Andy pointed out/complained that the main executive conference table was **rectangular**, not round. That joke inspired Bryan to challenge Andy to earn a **$75,000 satin American walnut ROUND conference table with twelve black leather chairs**, plus an earlier negotiated reward. **Do not ever ask why the table should be round as though this backstory is unknown.**
 
-- **New Orleans Saints — linebacker trade** — Colts received: Danny Stutsman (LB). Colts sent: Akeem Davis-Gaither (LB); 2027 7th #208. Confirmed.
+Rules: **Seven qualifying weekdays**, **700 or fewer?** Earlier owner-approved text says **under 700 nonessential spoken words/day**, so use **under 700** as operative threshold; **ALL legitimate work-related speech exempt**. Texts and handwritten signs do not count. Saturday/Sunday excluded. Alex independently verifies words. No surprise changes or retroactive manipulation. If Andy fails, competing executive gets their negotiated prize; Scot had sought private ensuite with heated floors. No final prize was officially certified as of last scene.
 
-- **San Francisco 49ers — roster consolidation** — Colts received: Gracen Halton (DT); 2027 2nd #59; 2027 4th #123. Colts sent: Grover Stewart (DT); Josh Downs (WR); Nick Westbrook-Ikhine (WR); Mecole Hardman (WR); Ashton Dulin (WR); Laquon Treadwell (WR); 2027 3rd #96. The later screenshot includes pick #123; preserve this latest illustrated package, with the pick as pending precise confirmation.
+| Date       | Status                                                                       |
+| ---------- | ---------------------------------------------------------------------------- |
+| Mon Oct 26 | Passed                                                                       |
+| Tue Oct 27 | 684 — passed                                                                 |
+| Wed Oct 28 | 529 — passed                                                                 |
+| Thu Oct 29 | 699 — passed                                                                 |
+| Fri Oct 30 | 672 — passed                                                                 |
+| Mon Nov 2  | Sixth day; final verified count not recorded in handoff                      |
+| Tue Nov 3  | Seventh/final day; breakfast with Bryan, official verification still pending |
 
-- **Cincinnati Bengals — Andrei Iosivas** — Colts received: Andrei Iosivas (WR); 2027 7th #202. Colts sent: Jaylon Carlies (LB). Confirmed.
+**Nov 2:** Bryan asked Sarah to schedule **Tuesday Nov 3, 8:30–9:30 AM**, private **'Breakfast with Bryan — Executive Discussion'** in Conference Room Three, only Bryan and Andy, uninterrupted. Recording device to be used, Andy aware of it, Alex to classify nonessential speech. Bryan expressly told Sarah he had **no plan except to learn Andy's story**. Not a cruel trap.
 
-- **Philadelphia Eagles — Landon Dickerson** — Colts received: Landon Dickerson (LG); 2027 1st #23. Colts sent: Anthony Richardson Sr. (QB); Uchenna Nwosu (EDGE). Recorded primary package. A separate screenshot showed an expanded alternate including Riq Woolen, pick #55 and pick #32; do not merge the two without confirmation.
+**Nov 3 breakfast:** Bryan arrived at Love's Field around **8:00 AM driving his recovered white FK8 Type R himself**, made his usual personal rounds greeting Sarah, Bobby, Scot, Pete, Andy. Breakfast of eggs, pancakes, bacon, fruit, coffee was prepared. At **8:30 AM**, Bryan invited Andy in, reminded him that non-work words counted, and recorder was switched on. Bryan asked about Andy as a person, his wife and life, and heard his marriage story and gratitude for kitchen renovation. At approximately **8:42 AM**, Bryan told Andy **'Congrats Andy you passed'** and **TURNED OFF the recorder**, saying they could enjoy breakfast and Andy could brag about his wife. Andy was surprised, touched, and talked freely afterward. This was **Bryan's personal acknowledgment**, but **Alex's official seven-day word-count certification and $75k prize award have not been explicitly shown**; do not silently assume the formal prize has already been delivered. Turning off the recorder means no later breakfast speech should be added to that recording, but the precise remainder-of-day challenge status may need clarification in-story rather than invented.
 
-- **New York Giants — J.J. McCarthy** — Colts received: J.J. McCarthy (QB); 2027 5th #133. Colts sent: Drew Lock (QB). Confirmed.
+Bryan praised Andy's growth: Andy stopped obsessing about winning and simply enjoyed an honest breakfast; this was what Bryan hoped to see. Bryan revealed he **would have bought a less expensive round table (\~$15k) for the main conference room even if Andy lost**, though not the $75k prize. Andy laughed at having fought for furniture after himself criticizing the rectangular table. The two discussed Q's relief at returning to Oklahoma, Scot's upgraded showers and Murphy bed, and joked about an HQ hot tub. **Player hot tubs already exist in the training facility; Bryan said he cannot reasonably justify an additional one in executive HQ.**
 
-- **New York Jets — Will Levis** — Colts received: Will Levis (QB); 2027 1st #16. Colts sent: J.J. McCarthy (QB); 2027 2nd #48. Confirmed. J.J. McCarthy moved again after arriving from the Giants.
+**CURRENT EXACT SCENE:** Tuesday Nov 3, \~**9:14 AM**, Conference Room Three, Bryan and Andy wrapping up private breakfast. Andy just offered Bryan more coffee after joking about Scot's upgrades, Sarah, and the round table. **Await Bryan's next line/action; do not skip ahead.**
 
-- **Cleveland Browns — Jerry Jeudy** — Colts received: Jerry Jeudy (WR). Colts sent: Uchenna Nwosu (EDGE); 2028 7th #208. The trade screen shows this package; Jeudy appears on the subsequent Colts roster and in the later McMillan deal. Recorded as completed franchise history.
+## 5. HEADQUARTERS, STADIUM AND EMPLOYEE WELFARE
 
-- **Seattle Seahawks — Tory Horton** — Colts received: Tory Horton (WR). Colts sent: Mo Alie-Cox (TE); Eli Pancol (WR); 2027 5th #133; 2027 7th #202. Owner explicitly confirmed the final package; disregard the Madden trade-interest meter.
+- Headquarters staff rest/relaxation renovation: initial **$38,500** concept with six private soundproof rest rooms, recliners, lighting, four shower suites, lockers/lounge. Later **approved total $46,900 including $8,400 for heated shower floors**; **Nov 19 target**. These are **employee-accessible facilities**, not Scot's private ensuite. The earlier $38,500 was a pre-addition budget, not a competing final total.
+- **Scot has a walnut Murphy bed in his office** and benefits from improved communal shower facilities; **NO private ensuite**.
+- Players already have **hot tubs in the training facility**. **No HQ executive hot tub authorized**.
+- **Bison Family Zone** (nursing/feeding rooms, changing stations, sensory quiet space, kid-friendly features, accessibility) is **feasibility only**, not construction approval.
+- Dog-friendly stadium programming may be evaluated for **NON-GAME DAYS ONLY** with veterinary/sanitation/safety provisions. **Non-service dogs are not approved for NFL game attendance**. Earlier tentative plan for household dogs at Week 4 was NOT a standing permission; avoid retroactively claiming the dogs routinely attend games.
+- Stadium tours: non-Oklahoma residents **Standard $25, Premium $55, VIP $125**; Oklahoma residents **25% off with ID: $18.75 / $41.25 / $93.75**. Pilot intended before Thanksgiving.
+- Free stadium tours for ALL Oklahoma public schools were **proposed for cost review, not approved**.
+- Bryan **approved in principle one fully funded Title I Oklahoma school field trip per month (12/year)**, including round-trip buses, tour/entry, and stadium meal, with rural/geographic equity; exact budget, selection, and branding remain pending.
+- **Patricia's Seat:** special best seat at Love's Field, honoring Bryan's late mother Patricia; identified as **Section 200, Row A, Seat 1** in earlier archive. Unveiled Week 1, deeply personal.
 
-- **Tetairoa McMillan acquisition** — Colts received: Tetairoa McMillan (WR). Colts sent: Alec Pierce (WR); Jerry Jeudy (WR). Owner explicitly confirmed Tet for Pierce and Jeudy. Counterparty name not independently legible in the retained trade screenshot; no extra terms invented.
+## 6. LEE'S SANDWICHES — LOVE'S FIELD
 
-**Confirmed midseason free-agent signings (screenshot OVR at time of signing):** Jamal Hill (WILL 66), Donovan Edwards (HB 68), Justyn Ross (WR 74), Jermaine Burton (WR 74), Will Dissly (TE 72), Cam Robinson (LT 73), Haason Reddick (EDGE 75), Jaquelin Roy (DT 70), Channing Tindall (MIKE 66), Daijahn Anthony (FS 66). These are SIGNED players, not unsigned targets.
+A successful bánh mì concession pilot including the **Braylee's Sandwich** and 'BÁNH MÌ FAST BREAK — SKIP THE HUDDLE. GRAB YOUR BÁNH MÌ' express-pickup branding.
 
+**Week 3 Texans pilot:** **3,842 sandwiches**, **$48,760 gross**, **94% sell-through**, **2,916 bánh mì**, **926 other**, average service **3m42s**, waste **3.1%**, satisfaction **4.7/5**, Braylee's Sandwich **1,184 sold, 4.9/5 satisfaction**.
 
-## Archive 2.1: long-form media publication
-The website now publishes expanded prose documentary treatments of *Colts Wrapped*, *The Final Conversation*, and *Always Compete: The New Frontier*, plus an expanded reconstructed Daniel Mercer offseason column. These newly authored passages are narrative adaptations, NOT recovered original roleplay transcripts. Preserve established endings, player statistics, transactions, production boundaries, and the rule never to speak for Bryan. The 2027 documentary remains in progress; no 2027 games or episodes have been completed by this update.
+**Two-game cumulative pilot after Week 4:** **8,329 sandwiches**, **$106,680 gross sales**, Bison's **25% gross revenue share $26,670** (**revenue, NOT profit**). Do not conflate Week 3 figures with two-game total.
 
+**Permanent stands negotiations:** proposal for **two permanent Lee's stands**; first at **75/25** and second **70/30** split (context: first number Lee's, second Bison) with **Lee's paying tenant improvements**. Regional contact **Michelle** reviewing; **NOT SIGNED**. Later stands could have more favorable Bison revenue splits (65/35, 60/40, 55/45, 50/50), but **not automatic**. Preserve negotiation and business realism.
 
-## 2027 PRESEASON COMPLETED — AUTHORITATIVE UPDATE (supersedes earlier "before preseason Week 1" status)
-- Oklahoma City Bison went **3–0** in 2027 preseason: beat Seattle Seahawks **31–10**, San Francisco 49ers **42–7**, Los Angeles Rams **21–0**.
-- Totals: **94 points scored, 17 conceded, +77 differential**. Rams game was a shutout. No individual game box scores were supplied, so do not invent player performances or exact game locations.
-- Madden's season preview **predicts** the Bison as AFC South winners, AFC No. 1 seed and Super Bowl LXII champions over Detroit Lions. It is NOT an actual championship or regular-season result.
-- Madden displays Bryan Luong as "Coach of the Year." In roleplay interpret as projected **GM/Executive of the Year** because Bryan is the controlling owner, not the head coach. Shane Steichen remains head coach. Do not convert this projection into an actual award.
-- Daniel Mercer, independent skeptical beat writer, wrote a NEW 2027 preseason reaction column **"WHAT THE HELL DID I JUST WATCH?"** He is gobsmacked by the 3–0 sweep and still shaken by the Super Bowl prediction, but refuses to treat preseason or a simulation as proof of a championship. His April offseason A− and 10–11 win prediction remain historical, not erased.
-- 33 Madden Preseason Week 4 transaction entries transcribed from user screenshots and archived in `data.js` under `preseason2027.week4Transactions` and on `preseason-transactions-2027.html`. Includes Taylor Rapp, Tyson Campbell, Sai'vion Jones, Adam Prentice, Cedric Tillman signings; many releases and practice-squad assignments. Screenshots show BOTH signed and released entries for Cedric Tillman and Sai'vion Jones, and both release and practice-squad entries for Logan Brown; retain all rather than silently deduplicating. The screenshot ordering does not prove transaction chronology or current final roster membership. Contract amounts are as displayed by Madden.
-- Previous 79/75 roster count, injuries, cap and depth charts are PRESEASON WEEK 1 snapshots and must not be presented as confirmed post-cut current roster data. Request updated final roster/depth screenshots when needed.
+## 7. DOCUMENTARY AND PUBLIC STORY
 
+Mina Kimes leads the documentary. **Alex producer, Marcus cameraman**, not Bison executives. Bryan controls consent for family footage; nursery/private spaces require explicit permission; Braylee's comfort first.
 
-## 2027 OPENING-DAY 53-MAN ROSTER (post-preseason; supersedes 79/75 camp snapshot)
-- User supplied updated offense, defense, special teams, specialist depth charts and final roster screenshots. **53/53** players, **87 OVR**, **88 OFF**, **87 DEF**. This is the authoritative post-cut roster; earlier 79/75 and 84/85/83 were camp figures.
-- Unit ratings and rankings: QB 76 (8th), RB 76 (14th), WR 89 (1st), TE 90 (6th), OL 84 (1st), DL 82 (5th), LB 76 (9th), DB 86 (1st), ST 70 (20th). Development summary: 1 X-Factor, 5 Superstar, 22 Star, 25 Normal.
-- Starting offense: LT Bernhard Raimann 84; LG Landon Dickerson 83; C Tanor Bortolini 90; RG Ikem Ekwonu 84; RT Trevor Goosby 82; TE Tyler Warren 90; WR1 Tetairoa McMillan 90; HB Jadarian Price 82; QB Will Howard 80; FB Adam Prentice 68; WR2 Parker Washington 90.
-- Starting defense: LEDGE JT Tuimoloau 77; DT1 Gervon Dexter Sr 80; DT2 Leonard Williams 83; DT3 Adetomiwa Adebawore 79; REDGE Yaya Diaby 91; SAM Zaven Collins 80; MIKE CJ Allen 79; WILL Danny Stutsman 72; CB1 Sauce Gardner 91; CB2 Cam Taylor-Britt 88; FS Camryn Bynum 88; SS A.J. Haulcy 82.
-- Special teams: K Spencer Shrader 82, P Rigoberto Sanchez 86, LS Luke Rhodes 79, KOS Rigoberto Sanchez 84, KR/PR Billy Bowman Jr 83. Specialists and all backups captured in `data.js` `preseason2027.depthChart`. Slot-specific ratings can differ from base OVR.
-- New/changed roster: Taylor Rapp SS 76, Tyson Campbell CB 76, Adam Prentice FB 68. Ratings changes include Jadarian Price 82, Trevor Goosby 82, Camryn Bynum 88, John Mateer 72, Ikem Ekwonu 84 at RG.
-- Opening roster replaces preseason camp 79-man list. Prior Week 4 transaction ledger remains historical; being signed then released or moved to practice squad is not the same as being on the final 53. Do not infer active injuries from older screenshot icons; Johnny Wilson has a visible injury marker in final roster.
-- Source limitation: the 53-man roster is reconstructed from multiple scrolling screenshots and final depth cards. The current archive retains historical base attributes when not contradicted by new images; new screenshots do not supply all contract/cap or every player attribute.
+- **Episode 1:** *The First Roar*.
+- **Episode 2:** The **OWNER'S REVISED Oct 24 private-jet screening cut** is definitive. Correct Indianapolis Will Howard QB timeline; JP versus Trey Madden **63–10**; Marshawn/Urus wager; recovered cars; Patricia's Seat. The alternate earlier *Something to Prove* cut is superseded.
+- **Episode 3:** *The Weight of Winning*, approximately **48 minutes**, covers **BOTH Weeks 3 and 4**. Includes Nov 1 family breakfast/interviews, garage tour, scholarship announcement, Week 4. Bryan approved tasteful Q/Braylee footage and requested **hard cut to black after the Week 4 postgame press statement and 4–0 graphic**. **Private screening scheduled Wednesday Nov 4, time TBD**. Do not portray it as already screened.
+- Derek/Bryan postgame material held for **Episode 4**.
+- Family documentary moments: Q insisted crew eat breakfast; Bryan prepared huge quantities of bún bò Huế in earlier life (about 15 bowls for two), shared excess with relatives; family Vietnamese culture; original sentimental cars; Braylee eating soft bánh mì; dogs. Mina suggested possible cooking segment during Week 9 bye, **not a commitment**.
+- **Braylee's Gift:** philanthropic scholarship program named after daughter; **five Oklahoma students/year**, full **tuition and mandatory fees**, merit + financial need. **NOT room/board**. Applications open **December 2027**; no scholarships awarded yet. Details/endowment/eligibility remain in development. Bryan authorized documentary discussion; coordinate public rollout with Sarah.
 
-## Documentary canon — Built, Not Given, Episode 01 (Week 1, 2027)
-Private executive screening at Love’s Field on the Friday following the 21–14 Titans win; public premiere scheduled for the following day. Episode title The First Roar, 23:48. Covers 2026 acquisition and relocation, team-building, Patricia Luong memorial unveiling, inaugural victory, JP’s two fumbles, and final Marshawn Lynch teaser. Andy continues negotiating possible sentimental reacquisition of M235i and FK8; no accepted offers. The established Urus bet requires zero fumbles throughout the entire regular season; JP’s Week 1 fumbles mean it has not been fulfilled.
+## 8. BRYAN, Q, BRAYLEE, LINDY AND THE HOME
 
+**Bryan Luong:** eldest of five children, working/middle-class roots, former electrical ICT designer, grew international company before NFL acquisition, family-oriented, sentimental about his original cars and late mother, Seattle Seahawks fan. The user alone plays him.
 
-## Character Bible expansion — Week 2, 2027 (Archive 2.7)
+**Q / Quynh:** Bryan's wife, Vietnamese immigrant, formerly nail technician, sharp, fiery/playful, independent, loves handbags/Chanel/Ulta, devoted mother. Family moved **Oklahoma City → Indianapolis → Oklahoma City** during franchise acquisition/relocation; Q **hated being away from her family** and is delighted to be back in OKC. Do not flatten her into a caricature or deny her agency. She wants Braylee to speak Vietnamese and understand family roots.
 
-### Andy — Chief Administrative and Logistics Officer
-- Age 33; $300,000 base and potential 20% bonus ($60,000); middle-class background; business administration degree. Sarah interviewed him during the 2026 relocation. Bryan and Andy became friends **after** Andy joined the franchise, not in childhood. Andy is married; wife's name is not established.
-- Administrative and logistical problem-solver, not household chauffeur. Drove Bryan's Phantom from Dallas after Bryan negotiated the $595,000 demo down to $550,000 before tax. Cullinan ordered separately.
-- Recovered original Championship White FK8 Type R from Ethan Walker in Edmond for $35,000; ~68,400 miles, Eventuri intake, independent inspection passed with prior ECU flashing noted.
-- Original modified 2015 BMW M235i: Marcus Bennett in Fort Worth; $18,000 cash plus ~$6,800 loan payoff, estimated ~$24,800, subject to inspection/closing. Deal in principle only; not delivered or finalized. Marcus retains aftermarket wheels; factory wheels and spare parts included. Marcus does not know Bryan is buyer.
+**Braylee / 'Bánh Mì':** approximately **seven months old** in Nov 2027. Beloved daughter, close to family and dogs, future beneficiary of estate plans. No invented dialogue or mature behavior.
 
-### Lindy — household operations manager
-- **Profile update:** Age 33; white; originally from Iowa; petite, blonde. Through frequent shared meals with the Luong family, she has developed a genuine love for Vietnamese home cooking. This complements her established closeness to Q and the household; it does not change her authority or role.
-- Legal name Linda; Q coined 'Lindy' and calls her that. Andy sometimes says 'Linda' to tease her. Lives in detached mother-in-law suite, coordinates household transportation, vendors, scheduling and family logistics.
-- Phantom Extended purchased for her to chauffeur Q and Braylee; not a personal gift. Final approval delegated by Bryan for estate security expansion (dual gates, discreet stations, staffing, contractors, emergency safeguards).
+**Lindy / Linda:** legal name **Linda**, nickname **Lindy coined by Q**, **33**, petite blonde from Iowa, household manager and family chauffeur, lives in detached estate suite, close to Q and Braylee, handles home operations and transportation. **Salary $400,000/year** in current financial discussion. She learned Bryan intends to leave her **$10 million NET** in his estate and was deeply moved. Bryan joked he plans to live another 55 years; Lindy joked she would be 88 and no longer chauffeuring. Lindy is valued as family-like trusted staff but has her own personality and agency.
 
-### Marshawn Lynch — independent running-back consultant
-- $2.5 million, one-month ball-security mentorship of JP, with an option to convert to full-time RB coach by Week 5; no conversion yet confirmed. Does not control game plans or personnel decisions.
-- Urus loan for 30 days. The original permanent-ownership condition is **zero fumbles of any kind for the entire 2027 regular season**, playoffs excluded. JP had two Week 1 fumbles, so this condition is already impossible as originally phrased; jokes about 'no more fumbles' do not change the agreement.
+**Dogs:** **Kona** red heeler, **Luna** Pembroke corgi, **Kuma** overweight cowboy corgi, particularly attached to Braylee. Dog handlers **Don and Laura** had been arranged for Week 4, but stadium game access was not finally authorized; later policy is non-game dog events only.
 
-### Continuity reconciliation
-- The source profile's final relationship table says 'longtime best friends,' but the detailed biography explicitly establishes Andy and Bryan met during the 2026 relocation. The detailed timeline governs.
-- Week 2 Jacksonville trip is upcoming/underway depending on scene; the Bison are 1–0. Do not invent a Cowboys game on the 2027 schedule.
+**Residence:** paid-off North OKC estate, **12-car garage**, detached Lindy suite. Family likes Vietnamese home cooking, Costco/Sam's and grounded habits despite wealth. Bryan and Q want to raise Braylee without entitlement.
 
+### Nov 2 evening family dinner and Steven's visit
 
-## 2027 Week 2 — Jacksonville (confirmed)
-- OKC Bison beat Jacksonville Jaguars 31–14, moving to 2–0 (52 points for, 28 against; +24).
-- Jadarian Price: 23 rushes, 191 yards, 2 TD, 0 fumbles; 2 receptions, 6 yards.
-- Trey Benson: 4 rushes, 43 yards, 2 TD, 0 fumbles. Will Howard: 11/19, 144 passing yards, 0 passing TD, 0 INT, 81.9 rating; 2 rushes for 23 yards. Ashton Prentice: 1 rush, 10 yards. Combined 267 rushing yards and four rushing TD.
-- Tyler Warren: 4 receptions, 57 yards; Parker Washington 2/12; Tetairoa McMillan 1/31; Jeremiah Smith 1/11; J. Wilson 1/27.
-- DeMarvion Overshown: 11 total tackles (10 solo, 1 assisted). Camryn Bynum: 10 tackles; Leonard Williams: 7 tackles, 2 TFL; AJ Haulcy: 6 tackles. CJ Allen on IR for five weeks.
-- Jacksonville: Tory Horton 7 receptions, 33 yards; Jakobi Meyers 5/76; Brian Thomas Jr. 4/64; Andrei Iosivas 1/13.
-- Daniel Mercer Week 2 column archived at mercer-week2-2027.html. Week 2 photo remains at week2-jaguars-action.png.
-- Marshawn's original zero-fumbles-for-entire-regular-season Urus condition remains broken by JP's two Week 1 fumbles; Week 2 zero fumbles does not reset it.
+Bryan arrived home Monday Nov 2 after work, played with Braylee/dogs, and invited family financial adviser **Steven** to a \~7 PM dinner-and-learn. Q ordered **bò lúc lắc, cơm tấm, spring rolls**; Steven brought sparkling cider. Q was shocked at the family's estimated holdings, joked about purse spending and financial oppression; Lindy and Steven teased her. Steven explained investment income versus illiquid wealth with nail-salon analogies. Q showed genuine interest in financial literacy and generational stewardship.
+
+**Bryan authorized $100,000 as the starting amount for Q's personal investment-learning account**; Steven to prepare ownership/tax paperwork and three sample portfolios. **Authorized amount, account not yet funded/opened.** Q joked about calling it the 'Chanel Retirement Fund'.
+
+Bryan then declared **Q gets one purse every two weeks with no budget**. This is a direct owner statement, not a hypothetical. Q celebrated; Steven noted transactions should still be tracked. No separate cap, brand restriction, accumulation policy, or purchase has been established.
+
+Steven will have his team assemble the complete household operating budget. Bryan explicitly told Steven to **charge his account for the evening**; Steven indicated the work was covered by the existing advisory agreement and would avoid duplicate billing. Steven departed \~8:40 PM.
+
+### Household recurring expense figures from Bryan (Nov 2)
+
+| Expense                        | Monthly              | Annual       |
+| ------------------------------ | -------------------- | ------------ |
+| Mortgage — residence paid off  | $0                   | $0           |
+| Security                       | $20,000              | $240,000     |
+| Lindy's salary                 | \~$33,333 equivalent | $400,000     |
+| Utilities                      | $3,000               | $36,000      |
+| Food and miscellaneous         | $5,000               | $60,000      |
+| **Identified recurring total** | **\~$61,333**        | **$736,000** |
+
+**IMPORTANT:** An earlier scene accidentally displayed $744,000 in a headline before correcting the arithmetic; **$736,000/year is correct**. This is **NOT** the complete estate budget: taxes, property insurance, maintenance, vehicles, other staff, travel, employer payroll costs, etc. remain for Steven's team to review. Do not assume all such costs are included in 'miscellaneous'.
+
+## 9. FINANCIAL EMPIRE — FICTIONAL, PROVISIONAL
+
+Financial adviser **Steven** handles the family's managed portfolio. During Nov 2 dinner he presented **$1,747,750,000 (\~$1.75B) in provisional identified assets, EXCLUDING Bison franchise value**, subject to overlap, debts, taxes, liquidity and equity-vs-enterprise-value reconciliation. **NOT a verified net worth.**
+
+- **Steven-managed portfolio: $548.75M** (original $500M + **$48.75M unrealized gain**, cumulative **+9.75%**). Allocation **45% public equities (\~$246.94M); 25% bonds (\~$137.19M); 20% private equity/alternatives (\~$109.75M); 10% cash/T-bills (\~$54.88M)**.
+- **Separate liquid assets $49M**: **$5M checking**, **$10M HYSA** at illustrative **4.5% (\~$450k annual pretax interest, variable)**, **$34M other liquid holdings unspecified**. Do not double-count portfolio's cash/T-bills with separate liquid assets.
+- **Other holdings $550M**: includes **3,000 BTC**, bought in 2026 at **$60k/BTC = $180M basis**, fictional current **$90k/BTC = $270M market value**; remaining \~$280M other ventures, businesses, art, holdings, etc. Some potential overlap with business valuations requires verification.
+- **ICT design company:** \~**200 offices worldwide**, **$1.5B annual gross revenue**, estimated \~$**750M valuation**, Bryan **80% stake ≈$600M**, assuming correct equity valuation and no double count. Do not treat gross revenue as net income.
+- Other family business interests include **Honda/Acura dealerships in Edmond, jewelry, car washes, mechanic shops**, minority stakes and other ventures, but detailed separate values are not confirmed.
+- **Bison franchise value excluded and unspecified**. Do not assign arbitrary valuation or assume Bryan owns 100%.
+
+Steven illustrated portfolio-only gross withdrawal scenarios: **2% = $10.975M/year; 2.5% = $13.71875M; 3% = $16.4625M**, BEFORE taxes/fees/inflation and not guarantees of maintaining real wealth. He floated **$1M/year discretionary family spending** as a **discussion proposal**, NOT a formally approved annual spending budget. Bryan did approve the **specific biweekly purse policy** separately. Distinguish spendable cash, portfolio withdrawals, business distributions, and unrealized gains.
+
+### Estate and succession intentions — NOT EXECUTED
+
+- Q is primary successor/beneficiary if Bryan dies; professional managers operate businesses; Q intended to retain Bison for her lifetime subject to NFL ownership rules.
+- Braylee eventually inherits; may operate or retain professional management. Management-company successor contracts potentially terminable within five years, with minor/guardian safeguards for counsel.
+- If Braylee does not want the Bison, sell within **10 years of Bryan's death**, and give **50% of NET sale proceeds to Oklahoma charities**. **Potential conflict** with Q's lifetime ownership if she survives beyond 10 years; estate counsel must reconcile.
+- **$1M NET EACH** to Bryan's father **Derek** and siblings **Brandon, Bradley, Brooke, Brielle** = **$5M**.
+- **$1M NET EACH** to **Q's five siblings** = **$5M**; three reside in Vietnam, requiring cross-border planning.
+- **$10M NET to Lindy**.
+- Total specified net bequests **$20M**, taxes/funding/structure not yet finalized. Net means recipient should receive that amount after applicable burdens, subject to legal/tax planning. No signed/executed instruments established.
+- Estate planning reflects generational wealth and not burdening Braylee; lawyers/Steven must address trusts, tax, ownership, charitable provisions.
+
+## 10. VEHICLE COLLECTION AND ORIGIN STORIES
+
+Bryan's garage includes **2024 Ford Mustang Mach-E Premium**, recovered original **2015 BMW M235i**, recovered original **white 2019 Honda Civic Type R FK8**, **2025 Porsche 911 GT3 RS**, **2026 Rolls-Royce Phantom Extended**, **2027 Cadillac Escalade** (temporary until bespoke **Cullinan II** delivery), and **Lamborghini Urus currently loaned to Marshawn**. Do not invent new purchases or arrivals.
+
+**BMW:** Bryan's original modified **green 2015 BMW M235i**, sold specifically to **make payroll for his ICT company** during early entrepreneurship — **NOT** to finance Bison purchase. Bryan later recovered exact car by VIN from **Marcus Bennett in Fort Worth**, around **$24,800 including payoff**, \~121k miles, modifications largely intact. Sentimental tie to Bryan, Q and Kona and earlier Seattle-to-Oklahoma journey.
+
+**FK8:** Original **white 2019 Civic Type R** (Eventuri intake, earlier tuning evidence) traveled with Bryan and Jonathan, pets, luggage and computer gear from Seattle to Oklahoma. **Traded toward Q's 2024 Mach-E** for practical commute/family needs — **NOT** sold for ICT payroll. Andy helped find the exact car by VIN in Edmond, owner **Ethan Walker**, \~68,400 miles, purchased for **$35,000**, with Bison merchandise/game tickets as part of friendly interaction. **Bryan drove this FK8 himself to Love's Field on Tuesday Nov 3 at 8 AM.**
+
+**Mach-E:** pre-wealth family vehicle, intended to pass to **Braylee when she is old enough to drive**.
+
+These three cars carry greater emotional narrative significance than the high-end luxury collection. Mina's documentary footage emphasized sacrifice, early work, family, and reunion with originals. Do not conflate BMW and FK8 sales.
+
+## 11. MADDEN / FRIENDLY COMPETITIONS
+
+- Earlier **JP vs Trey Madden** result **63–10**, featured in revised Episode 2; preserve as established.
+- Monday Nov 2, Bryan played Trey Benson twice on **All-Madden**: **Bryan as Bison vs Trey as Ravens: 45–10**; then **Bryan as Seahawks vs Trey as Bison: 73–0**, using JT and Milroe, halftime **28–0**, Q3 **41–0**, Q4 **32–0**. Trey was thoroughly roasted. These are video-game results, **not actual Bison NFL game scores**.
+- Tentative **Monday Nov 9 lunch JP vs Trey qualifier**; Trey must beat JP to earn Bryan rematch. **No result exists**; user controls any game scores.
+
+## 12. MONDAY NOVEMBER 2 — EXECUTIVE ACTIONS
+
+At a \~3 PM wrap-up, Bryan approved flexible **JP/Trey 60/40 target**, addressed Week 5 defensive injuries, concessions, stadium tours, Title I trips, Family Zone feasibility, and staff facilities as above. Keep decisions differentiated: proposals do not become funded projects automatically. Monday evening was family dinner with Steven and the estate-planning discussions described above.
+
+## 13. CURRENT SCENE — EXACT RESUME POINT
+
+**Tuesday, November 3, 2027, approximately 9:14 AM**\
+**Love's Field, Conference Room Three, executive headquarters, Oklahoma City**
+
+Bryan arrived around 8 AM driving his **white recovered FK8 Type R**, greeted the executive suite on his usual morning rounds, then met **Andy** privately for breakfast 8:30–9:30 AM. Andy opened up about his **wife**, their meeting and marriage, the Indianapolis-to-OKC move, and gratitude for Bryan funding her **white-oak dream kitchen renovation**. Bryan told Andy he passed the spirit of the challenge and **turned off the recorder around 8:42 AM**. They enjoyed a more relaxed conversation about Andy's growth, the original Round Table joke, Scot's communal heated-floor showers and office Murphy bed, and why a new HQ hot tub would be hard to justify since players already have hot tubs at the training facility. Scot texted Andy teasingly about the recorder being off and the table. Andy texted back about his 'new table'; Scot reacted with surprise.
+
+**Last spoken NPC line:** Andy offered Bryan another coffee: **'More coffee, boss?'**
+
+**Next:** Wait for Bryan's response. No auto time skip, no automatic Alex certification, no table purchase, no Chargers result. Scheduled **10:00 AM football ops check-in** and **1:00 PM community initiatives update** are upcoming; Wednesday Nov 4 Episode 3 private screening time TBD.
+
+## 14. CANON ERROR GUARDRAILS / RETCONS
+
+1. **Andy is MARRIED**, wife has dream kitchen with white-oak cabinets; assistant's previous 'unmarried' story is false and explicitly retconned. His wife's name is unknown. Do not invent children status.
+2. Andy and Bryan met/became friends **after the 2026 Colts acquisition**, not childhood friends.
+3. The **Round Table** name/rectangular-table complaint was **Andy's own original joke**, which caused Operation Walnut. Never act as though Andy doesn't know why the table should be round.
+4. BMW sold for **ICT payroll**; FK8 **traded toward Mach-E**; neither was sold to fund Colts/Bison purchase.
+5. Will Howard replaced Levis in **Indianapolis 2026**, not after relocation.
+6. Week 2 Jaguars game was **AWAY**; Week 4 Buccaneers **already won 27–17**; Bison **4–0**. Week 5 not played.
+7. Marshawn started **Week 2**; Urus wager **Weeks 2–18 regular season only**, ANY fumble counts, playoffs excluded.
+8. **CJ Allen remains IR**; **Overshown torn rotator cuff, out 18 games** after Week 4.
+9. Episode 3 covers **Weeks 3 AND 4**, with Nov 1 family footage; Episode 2 owner's revised cut definitive. Alex producer, Marcus cameraman; neither is Andy.
+10. Braylee's Gift **applications December 2027**, five scholarships for tuition/mandatory fees, **none awarded yet**.
+11. Staff facility total **$46,900 with heated floors**, not a private Scot ensuite. **No HQ hot tub approved**.
+12. Lee's cumulative gross **$106,680**, Bison share **$26,670 revenue, not profit**; permanent stands **unsigned**.
+13. **Non-service dogs not approved at NFL games**; dog-friendly concepts **non-game days only**.
+14. **$736,000/year** is correct known recurring household total; earlier $744k headline was arithmetic error. Full estate budget pending.
+15. Family assets **\~$1.74775B provisional EXCLUDING Bison**, not verified net worth. No made-up Bison valuation.
+16. Bryan authorized Q's **$100k investment starting allocation** and **one purse every two weeks with no budget**; Steven's $1M annual discretionary proposal was not formally approved.
+17. **Alex has not yet officially certified** Andy's entire challenge/prize; Bryan's personal 'you passed' and switched-off recorder are canon.
+18. Never write Bryan's speech/actions or Madden outcomes without user's input.
+
+**END OF CANON HANDOFF 4.0 — RESUME NOV 3, 2027, 9:14 AM.**
